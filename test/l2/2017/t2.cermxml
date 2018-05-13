@@ -1,0 +1,2929 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>J East Asian Linguist</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.1007/s10831-009-9043-2</article-id>
+      <title-group>
+        <article-title>Alignment and word order in Old Japanese</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Yuko Yanagida</string-name>
+          <email>yanagida@sakura.cc.tsukuba.ac.jp</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>John Whitman</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>J. Whitman Department of Linguistics, Cornell University</institution>
+          ,
+          <addr-line>203 Morrill Hall, Ithaca, NY 14853-4701</addr-line>
+          ,
+          <country country="US">USA</country>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>Y. Yanagida (&amp;) Institute of Modern Languages and Cultures, University of Tsukuba</institution>
+          ,
+          <addr-line>Tsukuba 305-8571</addr-line>
+          ,
+          <country country="JP">Japan</country>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>2009</year>
+      </pub-date>
+      <volume>18</volume>
+      <fpage>101</fpage>
+      <lpage>144</lpage>
+      <history>
+        <date date-type="accepted">
+          <day>27</day>
+          <month>3</month>
+          <year>2009</year>
+        </date>
+        <date date-type="received">
+          <day>2</day>
+          <month>11</month>
+          <year>2008</year>
+        </date>
+      </history>
+      <abstract>
+        <p>This paper argues that Old Japanese (eighth century) had split alignment, with nominative-accusative alignment in main clauses and active alignment in nominalized clauses. The main arguments for active alignment in nominalized clause come from ga-marking of active subjects and the distribution of two verbal prefixes: i-for active predicates and sa- for inactive predicates (cf. Yanagida, In: Hasegawa (ed.) Nihongo no shubun genshoˆ [Main clause phenomena in Japanese], 2007b). We review the treatment of non-accusative alignment and argue that active alignment should be analyzed as as a distinct type. We propose a formal analysis of active alignment in nominalized clauses in Old Japanese. The external argument is assigned inherent case, spelled out as ga, in situ in Spec, v. Object arguments are licensed by several distinct mechanisms, including incorporation (Yanagida, In: Miyamoto (ed.) MIT Working Papers in Linguistics, 2007a) and case assignment by a functional head above vP. The latter accounts for the distinctive O wo S ga V word order of OJ nominalized clauses noted by Yanagida (J. of East Asian Linguistics, 2006). Inability to assign object case is a property of [nominal] v, as proposed by Miyagawa (Structure and case marking in Japanese. Syntax and Semantics, vol. 22, 1989). We discuss the diachronic origins of the OJ active alignment system and point out that it exemplifies a cross-linguistically attested pattern of non-accusative alignment in clauses that originate from nominalizations.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>This paper is dedicated to the memory of S.-Y. Kuroda.</p>
+    </sec>
+    <sec id="sec-2">
+      <title>Ergative alignment</title>
+      <p>Clitic pronouns</p>
+    </sec>
+    <sec id="sec-3">
+      <title>Split intransitivity</title>
+      <p>Nominal hierarchy</p>
+    </sec>
+    <sec id="sec-4">
+      <title>Case</title>
+      <sec id="sec-4-1">
+        <title>1 Introduction</title>
+        <p>This paper discusses the syntactic alignment of the two major clause types in Old
+Japanese (OJ, 8th century): conclusive (1) and what we label ‘nominalized’ clauses,
+represented by the adnominal examples in (2).</p>
+      </sec>
+    </sec>
+    <sec id="sec-5">
+      <title>Conclusive:</title>
+      <p>見度婆
+Mi-watas-eba
+look-cross-when
+安麻乎等女登母 多麻藻可流美由
+amawotomye-domo tamamo karu miy-u.
+fisher maiden-Pl seaweed gather appear-Conc
+(MY 17/3890)1
+‘When (I) surveyed the scene, the fishermaidens appeared to be gathering
+seaweed.’</p>
+    </sec>
+    <sec id="sec-6">
+      <title>Nominalized (adnominal):</title>
+      <p>a. 佐欲比売能故何 比列布利斯夜麻</p>
+      <p>Saywopimye no kwo ga pire puri-si
+Sayohime Gen child Agt scarf wave-Pst.Adn
+‘the mountain where Sayohime waved her cloth’
+b. 和藝毛古我 蘇弖母志保保尓
+(MY 5/868)
+yama
+mountain
+奈伎志曽母波由
+(MY 20/4357)</p>
+      <p>Wagimokwo ga swode mo sipopo ni naki-si
+my.wife Agt sleeves even drenched cry-Pst.Adn
+so [o]mopayu.</p>
+      <p>Foc long.for
+‘I long for my wife, who cried so that even her sleeves were sopping.’
+久木生留 清河原尓
+pisakwi Ø opu-ru kiywoki kapara ni
+catalpa grow-Adn clear riverbank on
+‘on the banks of the clear river where catalpas grow’
+(MY 6 /925)</p>
+      <p>
+        We argue that while conclusive clauses display nominative-accusative alignment,
+nominalized clauses have active alignment. In active languages, also known as
+activestative
+        <xref ref-type="bibr" rid="ref26 ref27 ref39">(Klimov 1974, 1977; Mithun 1991)</xref>
+        , the sole argument of an intransitive verb
+shows two distinct patterns: generally speaking, agentive intransitive subjects pattern
+1 This paper follows in general the transcription and glossing conventions for Old Japanese in
+        <xref ref-type="bibr" rid="ref17">Frellesvig
+and Whitman (2008)</xref>
+        ; however we gloss inflectional endings only when crucial for the argument. Our data
+is taken from the Man’y oˆshuˆ (My; compiled mid-eighth century), based primarily on Yoshimura’s
+electronic text as well as the editions by Nakanishi (1978–1983), Kojima et al. (1995) and Satake et al.
+(2002). Examples are cited only when the morpheme crucial for the argument is attested in
+phonogrammatic form (transcribed in italics); material attested logogrammatically is transcribed in simple text.
+(3)
+(4)
+with transitive subjects; non-agentive ones pattern with transitive objects. We see
+such a pattern in (2). In (2a–b) the external argument, that is, the agent of the transitive
+(2a) and unergative (2b) verbs, is marked by the particle ga. In (2c), the patient subject
+of the unaccusative verb behaves like the object of the transitive verb in (2a): both are
+morphologically bare and occur immediately adjacent to the verb.
+      </p>
+      <p>Other nominalized clause types include clauses inflected in the realis (izenkei)
+(3a), irrealis (mizenkei) conditionals (3b), and nominal clauses in –(a)ku (3c).
+a. Realis (izenkei) conditional
+和我乎礼婆 宇良之保美知久
+Wa ga wor-e-ba ura sipo miti ku.</p>
+      <p>I Agt be-Rls-when bay tide be.full comes
+‘When I was present the tide was high in the bay.’
+b. Irrealis (mizenkei) conditional
+真幸而 伊毛我伊波伴伐
+masakikute imo ga ipap-a-ba
+safely wife Agt bless-Irs-if
+‘if you bless me godspeed’
+c. V-aku Nominal form2
+乎登賣良我 伊米尓都具良久
+wotome-ra ga ime ni tug-uraku
+maiden-Pl Agt dream in recount-Noml
+‘what the maidens recounted in my dream’
+(MY 15/3707)
+(MY 15/3583)
+(MY 16/ 4011)
+Each of the nominalized clause types in (3) share the active alignment properties of
+adnominal clauses in (2), beginning with marking of the external argument by ga.</p>
+      <p>Transitive nominalized clauses display another important property. As described in
+detail by Yanagida (2006), when the direct object is marked with accusative wo, it
+precedes the ga-marked external argument in nominalized clauses, as shown in (4):
+花 橘 乎 孅嬬良我
+pana tatibana wo wotomye-ra ga
+orange blossom Obj maiden-s Agt
+made ni
+until Loc
+‘until the maidens thread the orange blossoms on their beads’
+珠貫麻泥尓
+tama nuku
+bead thread-Adn
+(MY 19/4166)</p>
+      <p>
+        We develop an analysis of OJ nominalized clauses that accounts for the
+co-occurrence of the active alignment properties in (2) and the [O wo S ga V] object
+marking pattern in 4. Nominalized clauses assign inherent case, spelled out as ga, to
+the external argument in its base position in Spec, vP. Following a proposal due to
+        <xref ref-type="bibr" rid="ref40">Miyagawa (1989)</xref>
+        , nominalized verbal projections fail to assign accusative case.
+2 The term ‘‘nominal’’ for nominalized clauses in –aku follows Wrona (2008). Wrona shows that –aku
+nominal clauses fulfill many of the subordinate clause roles taken on by adnominal clauses in EMJ texts.
+For the standard view that the nominal ending is historically derived from the adnominal, see Sect. 6.
+Two case licensing strategies are available for direct objects: they may be assigned
+case, spelled out as wo, in the specifier of a functional projection above vP, as in (4);
+or, if they are non-branching, they may undergo incorporation into the verb
+(Yanagida 2005, 2007a,b). The second strategy is also available for patient subjects,
+as is wo-marking in a limited context, first pointed out by Vovin (1997) and
+described in Sect. 5.
+      </p>
+      <p>The paper is organized as follows. Section 2 reviews previous analyses. Section 3
+outlines the typological properties of active alignment, emphasizing that it has
+important differences from the better known ergative pattern. Section 4 shows that
+nominalized clauses in OJ share active alignment properties in two specific
+domains: case marking of subject arguments and prefixal cross-referencing of the
+subject argument on the verb. This section presents a formal analysis of active
+alignment in OJ. Section 5 focuses on object marking in nominalized clauses. In
+Sect. 6 we discuss the diachronic sources of the OJ alignment pattern in a broader
+typological context. Section 7 concludes the paper.</p>
+      <sec id="sec-6-1">
+        <title>2 Previous analyses</title>
+        <p>
+          <xref ref-type="bibr" rid="ref40">Miyagawa (1989)</xref>
+          proposes that in OJ and Early Middle Japanese (EMJ henceforth),
+adnominal and conclusive clauses have distinct case assigning mechanisms. The
+conclusive form of the verb is truly verbal and assigns abstract case to the object in
+underlying object position while the adnominal form has nominal properties and has
+no case assigning ability. In adnominal clauses, the object is assigned overt
+structural case in the form of wo in order to avoid a violation of the Case Filter.
+Miyagawa’s (1989) generalization is stated in (3).
+(5)
+        </p>
+        <p>Miyagawa’s generalization (1989, p. 206)
+Accusative Case Assignment: The conclusive form assigns abstract case while
+the case assigning feature of the attributive (=adnominal) form must be
+manifested overtly as wo.</p>
+        <p>
+          Given that overt object case marking is normally required in modern Japanese,
+          <xref ref-type="bibr" rid="ref40">Miyagawa (1989)</xref>
+          and
+          <xref ref-type="bibr" rid="ref42">Miyagawa and Ekida (2003)</xref>
+          propose that Japanese
+underwent a change from an abstract to a morphological case marking language and that
+the driving force for this change is the increased use of the adnominal in main
+clauses. In OJ, nominalized forms including the adnominal are generally restricted
+to embedded environments (this is exclusively the case for irrealis conditionals and
+the –aku nominalized form); the matrix use of the attributive is predominantly
+limited to the kakarimusubi focus construction (see Whitman 1997 and references
+cited there). The kakarimusubi construction, however, began to break down in
+EMJ
+          <xref ref-type="bibr" rid="ref21">(cf. Hendriks 1998)</xref>
+          , with the result that adnominal inflection came to be used
+in main clauses without a kakari focus particle and eventually replaced the
+conclusive in main clauses.
+          <xref ref-type="bibr" rid="ref40">Miyagawa (1989)</xref>
+          and
+          <xref ref-type="bibr" rid="ref42">Miyagawa and Ekida (2003)</xref>
+          , based
+on an extensive survey of EMJ literary texts, argue that the reanalysis of adnominal
+as a main clause predicate form led to the increased use of object marking with wo.
+2.2
+          <xref ref-type="bibr" rid="ref32">Kuroda (2007)</xref>
+          <xref ref-type="bibr" rid="ref32">Kuroda (2007)</xref>
+          proposes that the diachronic difference between modern and earlier
+Japanese is accounted for by an Agreement Parameter
+          <xref ref-type="bibr" rid="ref31">(cf. Kuroda 1988)</xref>
+          : agreement
+is forced in earlier Japanese but not in the modern language. In a forced-agreement
+language, movement is triggered by agreement-inducing features, and optionality
+does not come into play. Kuroda proposes that earlier Japanese was a
+forced-agreement language; he claims that wh/focus movement is obligatory, and both subject and
+object take obligatory abstract case marking. In modern Japanese, in contrast,
+whphrases do not move, relative clause heads need not raise, and abstract case marking is
+optional. We will show that the alignment characteristics of OJ are compatible with
+the view that certain, but not all, types of movement are forced in OJ nominalized
+clauses. In particular, complements marked by wo obligatorily move out of VP.
+However, this obligatory movement, together with wh-movement in OJ, is associated
+with the domain of active alignment in OJ syntax, namely nominalized clauses. The
+characteristic word order flexibility and other types of optionality are allowed in
+conclusive clauses, the domain of accusative alignment.
+        </p>
+      </sec>
+    </sec>
+    <sec id="sec-7">
+      <title>2.3 Previous non-accusative analyses of Old Japanese</title>
+      <p>
+        2.3.1 Vovin (1997)
+Vovin (1997) suggests that the suffix –i, analyzed as a subject case marker by
+traditional grammarians, represents in fact active case, marking subjects of transitive and
+of active intransitive verbs but not subjects of non-active intransitive verbs.3 Vovin
+further argues that the case marker wo marks absolutive case, in that wo appears not
+only with the object of transitive verbs but also with the subject of stative predicates,
+in particular predicates suffixed with –mi, called by Vovin ‘‘quality stative verbs.’’
+Based on the distribution of -i and wo, Vovin concludes that OJ is a language with
+active alignment. Although our analysis of OJ active alignment paper differs in many
+respects from his, Vovin deserves primacy of place as the originator of the hypothesis
+that OJ syntactic alignment is in important respects non-accusative.
+2.3.2 Yanagida (2005, 2007a,b)
+Yanagida (2005, 2007a,b) proposes that the historical change described by
+        <xref ref-type="bibr" rid="ref40">Miyagawa
+(1989)</xref>
+        and
+        <xref ref-type="bibr" rid="ref42">Miyagawa and Ekida (2003)</xref>
+        instantiates the cross-linguistically
+welldocumented change from split ergative to accusative. Yanagida’s basic claim is that
+Old Japanese is an ergative-active language with a split case system; the split occurs
+between main and embedded clauses, a type identified by Dixon (1994, pp. 101–104).
+3 Vovin (2005, pp. 111–116) revises this analysis, suggesting that OJ –i may be a loan from Korean. We
+return to this point in our discussion of EMJ in Sect. 6.3.
+Main predicates in the conclusive (shuˆ shikei) form show accusative alignment.
+Predicates in the non-conclusive forms, i.e., irrealis (mizenkei) conditionals,
+continuative (renyoˆ kei), adnominal (rentaikei), and realis (izenkei), show
+ergativeactive alignment. Yanagida (2007a) proposes that the adnominal form was a vestigial
+antipassive and wo was an oblique case marking the demoted object of the antipassive
+but was reanalyzed as an accusative case when the antipassive was lost in Old
+Japanese.4 A main objective of Yanagida (2007a) is to explain certain apparent
+counterexamples to Miyagawa’s (1989) generalization (5). Yanagida (2007b) shows that in
+the Man’yoˆ shuˆ , there are 90 tokens of transitive clauses whose subject is marked by
+no or ga but whose object is morphologically unmarked. Fifty-five tokens occur with
+adnominal predicates, as in (2a), repeated as (6) below.
+(6)
+佐欲比賣能故何 比列布利斯
+Saywopimye no kwo ga pire puri-si
+Sayohime Gen child Act scarf wave-PAdn
+‘the name of the hill where Sayohime waved her scarf’
+      </p>
+      <p>
+        Examples like this are apparent counter-examples to Miyagawa’s generalization.
+However, Yanagida shows that while bare objects do occur with adnominal
+predicates, there is a clear pattern to the counter-examples: the bare objects are almost
+without exception non-branching N0s. Based on these distributional facts, Yanagida
+proposes that bare objects in nominalized clauses like (6) are incorporated, on the
+model of languages like Chukchee (Spencer 1999). Chukchee has two types of
+derived intransitive constructions: a morphologically marked antipassive and the
+object incorporation strategy. Yanagida argues that OJ used object incorporation in
+a similar way. Following the basic approach of
+        <xref ref-type="bibr" rid="ref5">Baker (1988)</xref>
+        , non-branching nouns
+immediately adjacent to an adnominal predicate are incorporated into the verb, and
+incorporation satisfies the case requirements of the incorporee. This preserves
+Miyagawa’s generalization that the object of the adnominal predicate is not assigned
+abstract case in its base position.5 Note importantly that object incorporation is a
+salient feature of languages with active alignment as observed by Klimov (1977,
+pp. 125–126); cf. also
+        <xref ref-type="bibr" rid="ref49">Sapir (1911)</xref>
+        .
+      </p>
+      <p>In this paper, we retain Yanagida’s (2007a, b) analysis of OJ as a language involving
+split alignment and in particular her incorporation analysis of examples like (6). The
+incorporation analysis is dicussed in Sec. 4. However we do not retain the hypothesis
+that the adnominal suffix is a vestigial antipassive, for the following reasons.</p>
+      <p>
+        First, the function of antipassive in ergative languages is to make the clause
+[-transitive], resulting in assignment of absolutive case to the external argument. But
+4 Antipassives are common in strictly ergative languages: transitive subjects are marked by absolutive
+case and objects by oblique case. It is widely claimed that the historical shift from ergative to accusative
+languages results from reanalysis of antipassives as accusative transitives
+        <xref ref-type="bibr" rid="ref6">(e.g., Bittner and Hale 1996)</xref>
+        .
+5 Miyagawa (1989, footnote 7) recognizes four counter-examples to the generalization that direct objects
+in adnominal clauses are uniformly marked with wo in OJ. Miyagawa suggests that the examples are
+noun-verb compounds. In fact, the number of bare N0 + verb examples in the Man’y oˆshuˆ is much larger,
+and the quantity and lexical variety of these examples indicate a productive process of noun incorporation
+rather than lexicalized compounds.
+adnominal marking does not have this effect in OJ: the external argument in
+transitive adnominal clauses is marked with ergative (active) case (ga), not absolutive.
+Second, if adnominal marking in relative clauses was a kind of antipassive, we
+would expect it to be associated only with subject relatives. This is because of the
+so-called Absolutive Restriction on A-Bar extraction
+        <xref ref-type="bibr" rid="ref1">(Aldridge 2004)</xref>
+        , which allows
+only absolutive arguments to undergo relativization (recall that the transitive subject
+becomes absolutive in antipassives). But the OJ adnominal is used to form relatives
+of all types (cf (2a), an adjunct relative). Crucially, the adnominal is also used to
+derive object relatives:
+(7)
+垂乳根之 母我養蚕
+[taratine no papa ga kap-u] kwo
+Mk Gen mother Act breed-Adn silkworm
+‘the silkworms bred by my mother’
+(MY 12/2991)
+This is unexpected if the adnominal was an antipassive morpheme.
+      </p>
+      <p>
+        The third problem with the antipassive hypothesis is morphological. Any
+arguments for analyzing the adnominal as a vestigial antipassive holds for the
+other nominalized clause types as well since they all occur with ga-marked
+agentive subjects and wo-marked objects in the order OSV. But each of these
+clause types involves a completely different affix: realis -e-/-ure-, irrealis
+conditional -a-, nominal -aku. This means that there would be no specific morpheme
+marking the antipassive. The fourth and final problem is semantic. In ergative
+languages, the object argument in antipassives (if realized at all) is typically
+indefinite or non-referential
+        <xref ref-type="bibr" rid="ref14">(Dixon 1994, p. 148)</xref>
+        . But wo-marked objects in OJ
+are typically definite
+        <xref ref-type="bibr" rid="ref44">(Motohashi 1989)</xref>
+        . Again, this fact is unexpected if wo
+originated as the oblique case marker for objects in antipassives.
+      </p>
+      <p>
+        In fact, the expectation that an active language should have an antipassive is a
+product of the view that active is a subtype of ergative alignment. This view has
+been pervasive in the typological literature since at least Dixon (1979, pp. 80–85),
+but it is by no means the only view. Other typologists, in particular, Klimov (1974,
+1977, pp. 29–43) have claimed that the two alignment types are distinct
+        <xref ref-type="bibr" rid="ref17 ref3 ref34">(see also
+Wichmann 2008 and the papers collected in Wichmann and Donohue 2008)</xref>
+        . We
+argue in the next section, on empirical and formal grounds, that the latter view is
+correct. In particular, the feature [ transitive], which plays a crucial role in the
+assignment of ergative case and in the derivation of the antipassive in ergative
+languages, does not play this role in active languages.
+      </p>
+      <p>In the following section, we outline the typological and formal properties of
+active alignment before going on to show how these properties apply to OJ.</p>
+      <sec id="sec-7-1">
+        <title>3 Active alignment</title>
+        <p>In Dixon’s (1979) basic terminology, S refers to the subject of an intransitive verb,
+A to the subject of a transitive verb, and O to the object of a transitive verb.</p>
+        <sec id="sec-7-1-1">
+          <title>Nominative</title>
+        </sec>
+        <sec id="sec-7-1-2">
+          <title>Accusative A S O</title>
+        </sec>
+        <sec id="sec-7-1-3">
+          <title>Ergative</title>
+        </sec>
+        <sec id="sec-7-1-4">
+          <title>Absolutive A S O</title>
+        </sec>
+        <sec id="sec-7-1-5">
+          <title>Agent</title>
+        </sec>
+        <sec id="sec-7-1-6">
+          <title>Patient</title>
+          <p>In nominative/accusative languages, A and S receive the same case marking
+(nominative) while O is distinct (accusative). In ergative/absolutive languages, S
+and O receive the same marking (absolutive) while A is distinct (ergative). In
+languages with active alignment, the morphological encoding of intransitive
+subjects depends on the semantic properties of predicates and their arguments.6 Certain
+intransitive subjects pattern with A, that is, with transitive subjects while others
+pattern with objects. Dixon (1979, p. 80) distinguishes these as SA and SO.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="sec-8">
+      <title>3.1 Split intransitivity</title>
+      <p>Active languages divide intransitive verbs into active and inactive. The exact lexical
+division differs cross-linguistically, but the two classes of intransitive verbs are
+distinguished by case marking: active intransitive subjects (SA, typically the agent
+argument of unergatives) have the same marking as transitive subjects whereas
+inactive intransitive subjects (SO, typically the patient argument of unaccusatives)
+have the same marking as transitive objects. In Hindi, for example, verbs in
+perfective aspect show an active pattern: the case marker –ne appears on the subject of
+transitives and unergatives but not on the subject of unaccusatives:
+(9)</p>
+      <p>
+        Hindi (
+        <xref ref-type="bibr" rid="ref35">Mahajan (1990)</xref>
+        )
+a. Raam-ne kelaa
+      </p>
+      <p>Ram-Erg banana
+‘Ram ate a banana.’
+b. Kutte (ne)
+dogs (Erg)
+‘The dogs barked.’
+c. Siitaa (*ne) aayii.</p>
+      <p>Sita (*Erg) arrived
+‘Sita arrived.’
+khaayaa.</p>
+      <p>Ate
+bhONke.</p>
+      <p>
+        barked
+Lotha (Tibeto-Burman) also shows active alignment
+        <xref ref-type="bibr" rid="ref11">(Dahlstrom 1983)</xref>
+        ; the case
+maker -na marks SA, -co SO.
+6 Many different terms have been used to describe active alignment. Van Valin (1990) introduces the
+term split intransitivity; others include variations on Sapir’s (1917) original active–stative, agent–patient
+        <xref ref-type="bibr" rid="ref27 ref39">(cf. Klimov 1977; Mithun 1991)</xref>
+        , fluid-S/split S
+        <xref ref-type="bibr" rid="ref13 ref14">(Dixon 1979, 1994)</xref>
+        .
+        <xref ref-type="bibr" rid="ref27">Klimov (1977)</xref>
+        correlates a wide
+variety of lexical and syntactic traits with active alignment.
+(10)
+(11)
+      </p>
+    </sec>
+    <sec id="sec-9">
+      <title>Lotha (Dahlstrom (1983))</title>
+      <p>a. John-na firo ci echo
+John-Subj dog Det hit
+‘John hit the dog.’
+b. Mpo-na oki na hapoi ci
+he-Subj house from outside Det
+‘He went outside (from the house).’
+c. Nkolo co a wopan ciag-co
+long ago I family Det-Subj
+‘Long ago my family lived in Wokka.’
+cho.</p>
+      <p>Perf
+yi
+go
+cho.</p>
+      <p>Perf</p>
+    </sec>
+    <sec id="sec-10">
+      <title>Wokka-e van Wokka-Loc live cho. Perf</title>
+      <p>Active alignment can be manifested in the morphological case marked on nouns as
+we have seen, but many active languages are strictly head marking: they mark
+agreement with NP arguments on the verb. Thus in Guraran´ı a- cross-references SA;
+se- cross-references SO:</p>
+    </sec>
+    <sec id="sec-11">
+      <title>Guaran´ı (Mithun 1991)</title>
+      <p>A-xa´. ‘I go.’ Se-ras´ı. ‘I am sick.’
+A-pua´. ‘I got up.’ Se-ropehi´ı. ‘I am sleepy.’
+A-gweru´ a´ına. ‘I am bringing them now.’</p>
+    </sec>
+    <sec id="sec-12">
+      <title>3.2 The nominal hierarchy</title>
+      <p>We noted in Sect. 2 that the typological literature has tended to classify active as a
+subtype of ergative alignment. One argument against this view is that active
+languages differ crucially from ergative languages with respect to how ergative splits
+interact with Silverstein’s (1976) nominal hierarchy:
+(12)</p>
+      <p>
+        The Nominal Hierarchy (Silverstein 1976)
+pronouns &gt; proper nouns &gt;
+1st &gt;2nd &gt;3rd person
+common nouns
+human &gt; animate &gt; inanimate
+        <xref ref-type="bibr" rid="ref13">Dixon (1979)</xref>
+        emphasizes that languages termed ergative invariably show splits, that
+is, nominative/accusative features in certain contexts. This interacts with the
+nominal hierarchy. Dixon (1979, pp. 86–87) interprets the hierarchy to ‘‘roughly
+indicate the overall ‘agency potential’ of any given NP’’ and observes that ‘‘a
+number of languages have ‘split’ case marking exactly on this principle: an
+‘ergative’ case is used with NPs from the right-hand end up to some point in the
+middle of the hierarchy and an ‘accusative’ case from that point on, over to the
+extreme left of the hierarchy.’’ This is exemplified by Thulung Rai
+(TibetoBurman), an ergative language. The suffix –ka marks A when when it is lower on
+the hierarchy
+        <xref ref-type="bibr" rid="ref33 ref4">(Allen 1975, cited by Lahaussois 2003)</xref>
+        .
+(13)
+      </p>
+      <p>
+        Thulung Rai
+        <xref ref-type="bibr" rid="ref33">(Lahaussois 2003)</xref>
+        a. Gui pe-pa.hal s.l-mu
+1pl eat-Npst.Prt dish wash-Nom.inf
+‘We must wash the dishes.’
+basi.
+      </p>
+      <p>Obl
+b. Gatsi mam-lai kr.m-.a l.-mu basi.</p>
+      <p>2d mother-Dat visit-Purp go-Nom.Inf Obl
+‘You two must go visit mother.’
+c. Gumimim-ka kam be-mri.</p>
+      <p>3p-Erg work do-3p/3s.Pst
+‘They do work.’
+d. I-lwak-ka i-mam-lai khl.i.</p>
+      <p>2Poss-y.sibling-Erg 2Poss-mother-Dat help.3s/3s
+‘Your younger sibling helps your mother.’
+In Thulung Rai, first and second person A appears with nominative case while third
+person and common NP A follows an ergative pattern.</p>
+      <p>
+        A split between pronouns and nouns is also typical of languages with active
+alignment, but crucially, the nominal hierarchy applies to the argument NPs in the
+opposite direction as first suggested by
+        <xref ref-type="bibr" rid="ref11">Dahlstrom (1983)</xref>
+        . First and second person,
+which are at the top of the hierarchy, show active marking, while common NPs are
+less likely to be marked.
+      </p>
+      <p>
+        Lakhota
+        <xref ref-type="bibr" rid="ref11">(Dahlstrom 1983)</xref>
+        a. Wa-lowa.
+      </p>
+      <p>1sg.Ag-sing
+b. Ma-haska.</p>
+      <p>1sg.Pat-be tall
+c. Ma-ya-gnaya-pi.</p>
+      <p>1sg.Pat-2Ag-trick-Pl
+‘I sing.’
+‘I am tall.’
+‘You pl. tricked me.’
+a. Lowa-pi. ‘They sing.’</p>
+      <p>sing-Pl
+b. Haska-pi.</p>
+      <p>be tall-Pl
+c. Ma-gnaya-pi.</p>
+      <p>
+        1sg.Pat-trick-Pl
+d. Wicha-wa-gnaya. ‘I tricked them.’
+anim.3Pl.Acc -1sgAG –trick
+‘They tricked me.’
+‘They(anim.) are tall.’
+In Lakhota, the first and second person pronouns wa and ma display an active
+pattern, but third person plural pi has a nominative-accusative distribution.
+Independent NPs appear neither with morphological cases nor adpositions. As
+        <xref ref-type="bibr" rid="ref39">Mithun
+(1991)</xref>
+        points out, case systems based on agency are frequently restricted to
+nominals referring to human beings. 7 Thus Koasati shows agentive case marking on
+pronominal prefixes within verbs but accusative case marking on nouns. The
+active system in Batsbi (Tsova-Tush) is limited to first and second persons.
+7
+        <xref ref-type="bibr" rid="ref39">Mithun (1991)</xref>
+        identifies the semantic basis of the active marking of various West Hemisphere
+languages, both synchronically and diachronically.
+Central Pomo has an active system in nominals referring to humans only. The
+Georgian active system is restricted to human beings. The Yuki system is
+restricted to animates. From these cross-linguistic observations, the implication
+follows that active marking is used with NPs from the left-hand side to the
+righthand side of the nominal hierarchy; that is, if a language has agent marking in
+third person, it also has agent marking in first and second person. This is exactly
+the opposite of the right-to-left application of the hierarchy proposed by Dixon for
+ergative languages. The relationship between active marking and the nominal
+hierachy is stated in (16):
+(16)
+      </p>
+      <p>The Active Marking Hierarchy
+In active languages, if active marking applies to an NP type a, it applies
+to every NP type to the left of a on the nominal hierarchy.</p>
+      <p>The preceding discussion shows that assignment of active case is dependent not
+just on the thematic role assigned by the verb but on the place of S on the nominal
+hierarchy. Klimov (1974, 1979) emphasizes this point, stressing that in active
+languages the semantics of both the predicate and the subject NP govern the
+distribution of active case.</p>
+      <p>
+        Dixon (1979, pp. 80–83) divides active languages into two groups; ‘‘split S’’
+languages such as Tup´ı-Guaran´ı and ‘‘fluid S’’ langauges such as Batsbi. In split-S
+systems, the two classes of intransitive verbs have fixed membership, and whether
+they belong to the active or inactive class is based on their prototypical meaning. In
+fluid S systems, verbs are divided depending on the meaning of each particular
+token. The active pattern appears when the S argument has control over the activity,
+and the inactive pattern appears when control is lacking. Consider Batsbi, a fluid S
+language cited by
+        <xref ref-type="bibr" rid="ref10">(Comrie 1978, p. 366)</xref>
+        .
+(17)
+      </p>
+      <p>Batsbi: Northeast Caucasian
+a. Txo naizdrax qitra.</p>
+      <p>we-Abs to-the ground fell
+‘We fell to the ground (unintentionally).’
+b. Atxo naizdrax qitra.</p>
+      <p>we-Erg to-the ground fell
+‘We fell to the ground (intentionally).’</p>
+      <p>In (17a) the activity is unintentional, and the subject is marked absolutive while
+in (18b) the activity involves intention, and the subject is marked ergative/active.</p>
+      <p>
+        Summarizing, the distribution of active of SA marking can vary along three
+dimensions: the prototypical meaning of the verb (whether it is agentive or
+nonagentive), the degree of control associated with the S argument, and the place of S on
+the nominal hierarchy.
+        <xref ref-type="bibr" rid="ref34">Legate (2008)</xref>
+        provides a framework that can capture these
+properties and distinguish active from ergative systems. In Legate’s framework, the
+external argument in ergative languages receives inherent ergative case in its
+underlying position in the specifier of [+transitive] vPs. [The analysis of ergative as
+inherent case assigned to the external argument in situ originates with Woolford
+(1997) and is shared by such researchers as
+        <xref ref-type="bibr" rid="ref1">Aldridge (2004)</xref>
+        ]. In active languages,
+transitivity plays no role: inherent Active case is assigned to the external argument
+in Spec, vP regardless of whether or not v is [+transitive]. We propose that other
+features may also play a role in the assignment of inherent active case, including
+person features and semantic features such as [ animate]. This allows us to
+account for languages where NP type determines the distribution of active
+case.
+      </p>
+      <sec id="sec-12-1">
+        <title>4 Evidence for active alignment in Old Japanese</title>
+        <p>In this section, we present evidence for active alignment in Old Japanese
+nominalized clauses, focusing on subject case marking and verbal prefixation.</p>
+      </sec>
+    </sec>
+    <sec id="sec-13">
+      <title>4.1 Agent marking with ga</title>
+      <p>In modern Tokyo Japanese, ga is clearly a nominative case marker because it marks
+both the external argument of transitives and the internal argument of intransitives,
+as in (18).
+(18)
+a. Taroo ga naita</p>
+      <p>Taroo Nom cried
+‘Taroo cried.’
+b. Hana ga saita
+flower Nom bloomed
+‘Flowers bloomed.’
+c. Taroo ga hon</p>
+      <p>Taroo Nom book
+‘Taroo bought a book.’
+o katta</p>
+      <p>Acc bought
+The distribution of ga in OJ differs significantly from present-day Japanese. Ga
+in OJ is one of two genitive markers; the other is no, which retains this status in
+modern Japanese. In addition to marking possessors of NP inside DP, both ga
+and no also mark the subjects of nominalized clauses. Ga is restricted to
+personal nouns whose referent is someone close to the speaker, such as imo ‘sister,
+wife, lover’, or a pronoun with a specific human referent. No, on the other hand,
+is used with nonspecific animate nouns, such as pito ‘other people’, and with
+inanimate nouns.8 The use of ga depends not only on the semantics of the DP it
+marks but also on the semantics of the predicate. In nominalized clauses, ga is
+8 There are a few examples in which specific but nonhuman nouns such as pi ‘the sun’ or animals of
+special significance such as tadu ‘crane’ and siwa ‘snipe’ are marked with ga. These are almost certainly
+examples of personification, a prominent rhetorical device in the Man’y oˆsh uˆ.
+used with active intransitives and transitives (19) while no is used with inactive
+intransitives (20).9,10
+(19)
+比等豆麻古呂乎 伊吉尓和我須流
+Pito-dumakoro wo iki ni waga suru.
+person wife Obj long for I.Act do-Adn
+‘I long for another person’s wife.’
+君我由久道
+kimi ga yuk-u miti
+lord Act go-Adn road
+‘the road that my lord travels’
+佐欲比賣能故何
+Saywopimye no kwo
+Sayohime Gen child</p>
+      <p>比列布利斯
+ga pire puri-si</p>
+      <p>Act scarf wave-Pst.Adn
+‘the mountain where Sayohime waved her scarf’
+(MY 14/3539)
+The first and second pronouns wa and na are weak pronominal counterparts of the
+strong pronouns ware and nare, respectively. These weak pronouns have the
+properties of clitics: they are invariably marked with ga and appear strictly adjacent
+9 Stative verbs such as wori ‘be at, sit’ and unaccusative verbs such as ku ‘come’ appear with ga when
+the subject is a first or second person pronominal, which are ranked highest on the nominal hierarchy.
+(i) a. 米豆良之伎 吉美我 伎麻佐婆
+medurasiki kimi ga ki-mas-aba
+Charming lord Act come-Hon-if
+‘if my charming lord comes’
+b. 和我乎礼婆 宇良之保 美知 久
+wa ga wor-eba ura sipo miti ku
+I Actbe-when bay tide be.full comes
+‘When I am there the tide will be high in the bay.’
+10 Note that (19a) is an example from Eastern Old Japanese.
+(MY 18/4050)
+to the verb.11 This contrasts with full NP subjects marked by ga, which allow an
+adverb or even a clause to freely appear between the subject and the verb, as shown
+in (21).</p>
+      <p>a. 乎登賣良我 伊米尓都具良久
+wotomye-ra ga ime ni tugur-aku
+maiden-Pl Act dream-in tell-Nomnl
+‘The maidens told me in a dream.’
+b. 和藝毛故我 麻多牟等伊比之
+wagimokwo ga mat-amu to
+my.wife Act wait-will Comp
+‘when my wife said that she would wait’
+(MY 17/4011)</p>
+      <p>等伎
+ipi-si toki
+say-Pst.Adn time
+(MY 15/3701, 3713)
+(21)
+(22)
+In (22a), the predicate yuku means ‘go.’ Its subject is human and volitional and
+marked with ga. In (22b) yuku means ‘flow.’ Its inanimate subject Asuka-gapa
+‘Asuka river’ is morphologically unmarked. The choice of subject marking depends
+on whether the event denoted by the verb involves control or intention: only the
+human participant exercises control. Thus OJ nominal clauses are a fluid-S system,
+in Dixon’s sense described in Sect. 3.1.
+11 Approximately 120 occurrences of subject (w)a-ga are found in the Man’y oˆsh uˆ (based on the
+Yoshimura’s electronic text); all are immediately adjacent to the verb. (Data cited here include personal
+pronouns written with phonographs but not the freestanding ideograph吾, which can be read with or
+without a case particle.)
+Given the strict adjacency condition, we assume that the weak pronominals are
+clitics adjoined directly to the verb.</p>
+      <p>We see from the semantic differences between ga and no that ga marks NPs higher
+on the nominal hierarchy in (12) whereas no is used with NPs located lower on the
+hierarchy. This generalization applies both to ga and no as possessors of NP and
+markers of subjects (A and S) in nominalized clauses. Note that syncretism between
+genitive and agentive case is common in non-accusative languages. For clarity, we
+gloss ga as Act(ive) when it marks the SA of a nominalized clause and as Gen(itive)
+when it marks the possessor in DP. No is glossed as Gen(itive) throughout.</p>
+      <p>Now consider the OJ examples below:
+a. 君我由久 道乃奈我弖</p>
+      <p>Kimi ga yuk-u miti no nagate
+Lord Act go-And road Gen length
+‘the length of the road my lord travels’
+b. 明日香河 逝湍乎早見</p>
+      <p>Asuka-gapa Ø yuk-u se wo paya-mi
+Asuka river go-Adn shallows Obj fast-Mi
+‘since the shallows where the Asuka River flows are fast’</p>
+    </sec>
+    <sec id="sec-14">
+      <title>4.2 Ga/no marking and nominalized clause types</title>
+      <p>Subjects marked with ga and no appear in the clause types we have characterized as
+nominalized: adnominal (rentaikei), realis (izenkei), irrealis (mizenkei)
+conditionals, and –aku nominalizations, but they never appear with predicates in the
+conclusive form.12 Let us look more closely at the evidence that these clause types
+have nominalized status synchronically at the OJ period. First, as described above,
+their subjects appear with the genitive case particles ga and no. The semantic
+distribution of ga and no in marking the possessor in DPs is parallel to their distribution
+in nominalized clauses: possessors lower on the nominal hierarchy appear with no
+while NPs higher on the hierarchy, such as personal pronouns, appear with ga:</p>
+      <p>楢乃京師乃 佐保川
+Nara no miyakwo no Sapo kawa
+Nara Gen capital Gen Saho river
+‘the river Sahokawa in Nara.’
+和可由都流 伊毛我多毛等
+wakayu tur-u imo ga tamoto
+young.sweetfish angle-Adn girl Gen wrist
+‘the arms of my girl who fishes for young sweetfish’
+(MY 1/79)
+(MY 5/857)</p>
+      <p>Second, the four clause types appear in positions typical of nominalized clauses:
+embedded complement and modifier positions and focus constructions, including
+questions. Whitman (1997) shows that it is common, particularly in East and
+Southeast Asia, for focus and interrogative patterns to be realized with nominalizing
+morphology on the predicate. Adnominal clauses appear as focus and interrogative
+questions, as the object of a postposition or as the subject of a clause. Realis clauses
+appear as questions as focus constructions with the particle koso and as presupposed
+conditionals typically followed by the particles –ba ‘as/since’ and –do ‘even
+(though)’. Irrealis conditionals appear with the same two particles. Nominalized
+–aku clauses are analyzed as nominalizations by Wrona (2008) and typically occur
+in complement position. All of the environments above are embedded, all
+complements of a verb or particle or modifier of NP, except for the focus and question
+constructions associated with the adnominal and realis.</p>
+      <p>
+        In this paper we adopt the view that nominalization involves a [nominal] feature
+associated with the lexical verb and percolated to T, the head of the extended verbal
+12
+        <xref ref-type="bibr" rid="ref48">Sasaki (1996)</xref>
+        cites seven examples from the Man’yôshû in which he claims that ga appears with a
+predicate in the conclusive form. (We exclude examples involving the character 之 since this character
+can be read either as the case marker ga /no or the focus adverbial si.) (21b) above is one of the examples
+cited by Sasaki; closer inspection of his data reveals that in six out of Sasaki’s seven examples, as in
+(21b), the subject is not in the conclusive to-clause but in the higher clause whose predicate is in the
+adnominal form. The structure of these six clauses, as in (21b), is [Subject-gai [proi …Vconc] Vadn ], where
+the embedded subject is a phonologically null pro coindexed with the ga-marked subject in the higher
+adnominal clause.
+projection. 13 The fact that the domain of nominalization in OJ is TP is shown by the
+ability of the adnominal, realis, and irrealis conditional endings to select tense,
+negation, and modals such as presumptive -mu. In (2a–b), (20a), and (21), for
+instance, we see examples of the adnominal form of the past tense auxiliary, spelled
+out as -si. The ‘high’ locus of nominalization in OJ brings to mind languages
+like Turkish
+        <xref ref-type="bibr" rid="ref29">(Kornfilt 2003)</xref>
+        , where nominalization is at the clausal level.14 The
+concrete representation we propose for OJ nominalized clauses with ga-marked
+subjects is given in (24), corresponding to (21b).
+      </p>
+      <p>wagimokwo ga v’
+my.wife Act</p>
+      <p>VP
+ipi
+say</p>
+      <p>TP</p>
+      <p>(= 21b)
+vp</p>
+      <sec id="sec-14-1">
+        <title>T [nominal]</title>
+        <p>si</p>
+        <p>Past
+[Nominal] v assigns inherent active case (spelled out as ga) to external arguments in
+its specifier. Ga thus appears on the subjects of transitives and unergatives as
+described in Sect. 4.1. In addition, inherent ga is subject to additional featural
+restrictions typical of active languages as discussed in Sect. 3.2, such as the
+restriction that the active-marked DP be [animate].</p>
+        <p>
+          In contrast, genitive no is a structural case, assigned by D in DPs such as (23a).
+We assume that D is also responsible for assigning no to the subjects of nominalized
+clauses such as those in (20), much as in modern Japanese
+          <xref ref-type="bibr" rid="ref41">(see Miyagawa 1993 for
+an analysis of D as the licenser of no-marked genitive subjects in modern Japanese)</xref>
+          .
+The mechanism of subject no-marking is discussed in greater detail in Sect. 4.4.
+        </p>
+        <p>
+          In this section we have described a dependent marking pattern in OJ characeristic
+of active alignment: ga marking of A and SA in nominalized clauses. In the next
+section we show that OJ also displayed head marking patterns characteristic of
+active alignment.
+13 This contrasts with approaches that posit a category-fixing head n that selects an acategorial root
+          <xref ref-type="bibr" rid="ref37">(Marantz 1997)</xref>
+          or vP
+          <xref ref-type="bibr" rid="ref2">(Alexiadou 2001)</xref>
+          . Such an approach is not impossible in OJ, but the category-fixing
+head would have to select T.
+14 However, in Turkish the locus of nominalization is higher than in OJ:
+          <xref ref-type="bibr" rid="ref29">Kornfilt (2003)</xref>
+          places it in the
+Agr or Finite head where subject agreement is spelled out above the Tense-Aspect- Modal projections.
+OJ, like modern J, has no overt agreement morphology in this position, nor is there any overt Finite or C
+morpheme above the TAM (Tense/Modal/Aspect) auxiliaries. Instead what we find are adnominal, etc.
+allomorphs of these auxiliaries. For this reason we interpret the adnominal and other nominalized forms
+as the spellout of [nominal] T.
+        </p>
+      </sec>
+    </sec>
+    <sec id="sec-15">
+      <title>4.3 Active/inactive prefixes</title>
+      <p>A heretofore completely unnoticed piece of evidence for the active alignment of OJ
+comes from the verbal prefixes i- and sa-. Japanese traditional linguists have failed
+to identify a consistent semantic or syntactic function for these prefixes. But careful
+analysis shows that i- is attached to active verbs, and sa- to inactive verbs. These
+two prefixes appear almost exclusively in nominalized, as well as infinitive, clauses.
+4.3.1 i- on active verbs
+The prefix i- is richly attested in the Man’yoˆ shuˆ , as in (25a–b).
+(25)
+a. 楢乃京師乃</p>
+      <p>Nara no miyakwo
+Nara Gen capital</p>
+      <p>佐保川尓 伊去至而
+no Sapo kawa ni i-yuki itarite
+Gen Saho River–Loc i-go reaching
+(MY 1/79)
+‘I reached the River Sahokawa in Nara.’
+b. 久米能若子我 伊觸家武</p>
+      <p>Kume no wakugwo ga i-pure-kyem-u
+Kume Gen youth Act i-touch-PConj-Adn
+礒之草根
+iswo no kusa no ne
+rock Gen grass Gen root (MY 1/435)
+‘the root of the grass that the youth of Kume would have touched.’
+A total of 74 occurrences of i- are found in the Man’yoˆ shuˆ . The distribution of
+i- parallels that of the case marker ga: both appear in nominalized clauses, i.e.,
+irrealis (mizenkei) conditionals and -aku nominal, adnominal (rentaikei), and
+realis (izenkei) clauses.
+(26)</p>
+      <p>Quantitative data for prefix i-15
+Irrealis
+(Mizen)
+3</p>
+      <p>Realis Adnominal Infinitive
+(Izen) (Rentai) (Renyoˆ)</p>
+      <p>
+        Conclusive Imperative Total
+(Shuˆshi) (Meirei)
+5
+19
+44
+(2)
+(1)
+74
+The prefix i- attaches to active verbs
+        <xref ref-type="bibr" rid="ref24 ref32">(all tokens of i- in the Man’yoˆ shuˆ are cited in
+Yanagida 2007b)</xref>
+        . There are a number of cases in which i- is prefixed to the
+unergative verb yuku ‘go’ but no examples in which i- is prefixed to the unaccusative
+verb kuru ‘come’. There are a few examples in which i- is prefixed to what appear to
+be nonagentive verbs, such as (27).
+15 The parentheses on the totals for conclusive and imperative examples of i- indicate that all three of
+these examples are subject to alternative analyses, as discussed below.
+三輪乃 山. . . 奈良能山乃 山際
+Miwa no yama . . . Nara no yama no yama no ma ni
+Miwa Gen mountain Nara Gen mountain Gen mountain among
+伊隠万代 道隈 伊積流万代尓 (MY 1/17)
+i-kakur-u made miti no kuma i-tumor-u made ni
+i-hide-Adn until road Gen bend i-amass-Adn until Loc
+‘Mt. Miwa. . . until you hide yourself among the mountains of Nara,
+until you loom in the bends of the road’
+Although we might expect (27) to be interpreted as inactive since the subject Miwa-no
+yama ‘Mt Miwa’is superficially inanimate, the clause is interpreted as
+personificational by all Japanese commentators.16 The use of i- here thus fits with our
+characterization of OJ as a fluid-S language in the previous section: ostensibly
+nonagentive verbs may appear with active marking when they have human (or
+personified) subjects.
+      </p>
+      <p>Unlike active marking ga, i- also appears in infinitive (renyoˆ kei) clauses. But in
+infinitive clauses too, the prefixed verb is unfailingly active in all of the clearly
+interpretable examples. Of the 44 examples of i- prefixed to a verb in the infinitive,
+18 involve the unergative verb yuk- ‘go’. The overwhelming majority of i+infinitive
+clauses have agentive empty (pro) subjects.17</p>
+      <p>In addition to being restricted to active verbs, we see from the table in (23) that
+i- occurs almost exclusively with the clause types we have identified as nominalized
+or in infinitive clauses with agentive pro subjects. None of the threee potential
+counter-examples to this generalization are written with phonograms. Kojima et al.
+(1995, vol. 3, p. 369) interpret the single potential imperative example (MYS 3169)
+as not involving prefixal i- but rather the honorific verb of displacement
+imas‘go/come (Honorific)’.18 In fact, both of the potential conclusive examples, MYS
+1916 and 3885, are open to this same interpretation, as both involve honorific
+subjects and a verb with the meaning ‘go’ written in Chinese characters. If this
+interpretation is correct, there are no examples of i- occurring with imperative or
+conclusive predicates.
+16 Wrona (2006) cites the second clause of (27) miti no kuma i-tumor-u as a counter-example to the
+generalization that i- appears only on active verbs, interpreting this clause as ‘bends of the road pile up’.
+This interpretation is also followed by Kojima et al. (1995) and Satake et al. (2002). But Nakanishi (1978/
+2004) interprets personificational ‘Mt. Miwa’ as the subject of both clauses. Because this preserves the
+evident parallelism of the two clauses, we have followed Nakanishi’s interpretation here.
+17 To be precise, 40 of the 44 infinitive examples have human agentive pro subjects. Two have
+personificational subjects, shirakum(w)o mo ‘white clouds too’ (MY 317) and amakum(w)o mo
+‘skyclouds too’ (MY 319), both occurring with unergative i-YUKI ‘i+going’. Both NPs are marked with the
+subdued focus marker mo ‘too/even’ suggesting that they are external to the infinitive clause. Only two
+examples have possible clause-internal non-agentive subjects, but both of these (MY 2145 and 3409) are
+problematic of interpretation. MY 2145 is particularly instructive. Kojima et al. (1995, vol. 3, p. 111) note
+that the infinitive clause in question sa-wosika no kowe i-tuki i-tuki ‘the voice of the buck i-continuing,
+i-continuing’ must be interpreted in context as an elliptical realis (izenkei) conditional: ‘when pro hears
+the voice of the buck’.
+18 Satake et al. (2002, vol .3, p. 205) also acknowledge this interpretation.</p>
+      <p>Summing up, the OJ verbal prefix i- is restricted to active verbs. It occurs only
+with nominalized predicates—the domain we have associated with ergative-active
+alignment—and infinitives with agentive pro subjects.
+4.3.2 sa- on Inactive verbs
+The prefix sa- differs crucially from i- in that it appears only on inactive verbs,
+as in (28).
+(28)
+a. 左奈良敝流 多可波奈家牟等
+sa-narap-yer-u taka pa nak-ye-mu to (MY 17/4011)
+sa-be.tamed-Perf-And falcon Top cry-Pst-Presum Comp
+‘that the tamed falcons would have cried’
+b. 左宿之妻屋尓 朝庭出立偲
+sa-ne-si tumaya ni asita ni pa ide-tati
+sa-sleep-Pst.Adn bedroom in morning in Top leaving
+sinopi (MY 3/481)
+remembering
+‘remembering, leaving the bedroom where (I) slept’
+c. 狭丹頬相 吾大王
+sa-niturap-u wa ga opo kimi (MY 3/420)
+sa-shine-Adn I Gen great lord
+‘my great lord who shines’
+d. 椙野 尓 左乎騰流雉
+sugwi no nwo ni sa-wodor-u kigisi
+cedar Gen field in sa-dance-Adn pheasant (MY 19/4148)
+‘the pheasant that dances in the cedar-covered field’
+e. 河湍尓波 年魚子小狭走
+kapa se ni pa ayu kwo sa-basir-i (MY3/475)
+river shallow in Top sweetfish fry sa-run-Inf
+‘the young sweetfish running in the river shallows’
+There are 30 tokens of the prefix sa- on verbs, including neru ‘sleep’, niturapu
+‘shine’, pasiru ‘(fish) run’, wodoru ‘(birds) dance’, wataru ‘(toads) cross’, nebapu
+‘spread roots’, narabu ‘(birds) line up’, kumoru ‘get cloudy’, nituku ‘get
+reddened’. All the verbs are intransitive, and all have non-agentive subjects (aside from
+ne- ‘sleep’, all are nonhuman).
+(29)</p>
+      <p>Quantitative data for prefix
+saRealis -aku Adnominal Infinitive
+(Izen) (Rentai) (Renyoˆ)</p>
+      <p>Conclusive Imperative
+(Shuˆshi) (Meirei)</p>
+      <p>
+        Total
+Like i-, the prefix sa- is used overwhelmingly (25/30 tokens) in nominalized
+clauses. 19 Sa- also occurs in the Man’yoˆ shuˆ as a noun prefix, as in sa-yo ‘night’
+while i- does not. This parallels exactly the distribution of agreement prefixes in
+active languages such as Satere´ -Mawe´
+        <xref ref-type="bibr" rid="ref38">(Meira 2006)</xref>
+        : inactive prefixes occur on
+nouns and inactive verbs while active prefixes occur on active verbs only.20,21
+      </p>
+      <p>Alexander Vovin (p.c.) points out to us that one verb in OJ, wataru ‘cross’,
+appears with either i- or sa-. There are four examples of i-watar- in the Man’yoˆ shuˆ
+(MY 1742, 2081, 4101, and 4126), and six examples of sa-watar- (MY 800, 971,
+1960, 1976, 2450, and 2804). The S of i-watar- is [+human] and volitional in all
+four examples: ‘the young woman,’ ‘Tanabata’ (Vega, the weaver star), ‘the
+fisherfolk,’ and ‘Vega and Altair.’ The S of sa-watar- is [-human] in all six examples:
+‘toads’ (800, 971), ‘a cuckoo’ (1960, 1976), ‘the moon,’ ‘a teal’. Typical examples
+of each pattern are given in (30).22</p>
+      <p>
+        安麻能我波 波志和多世良波 曽能倍由母
+ama no gawa pasi watasera-ba sono pe yu mo
+sky Gen river bridge span-if that over from too
+伊和多良佐牟乎 (MY 18/4126)
+i–watar-as-am-u wo
+i-cross-Hon-Prop-Adn Conj
+‘though if one put a bridge across the Milky Way, (they=Vega and
+Altair) would i-cross over on that’
+雲間従 狭化月乃 於保々思ク
+kumo ma ywori sa-wataru tukwi no opoposiku
+cloud among from sa-cross moon Gen faintly
+相見子等 (MY 15 /2450)
+api misi kwo
+join saw child
+‘the girl I saw faintly like the moon sa-crossing from among the clouds’
+I-watar- ‘cross (over the bridge)’ is agentive volitional, and telic, a stereotypical
+active verb. Sa-watar- is non-agentive and designates not a completed action but the
+19 Three of the five counter-examples involve ne- ‘sleep’ with human subjects: conclusive (MY 2782)
+and two with imperative (MY 636, 2629). Since sa-ne ‘sa+sleeping’ also occurs as a noun, these
+examples may be back formations. The remaining two counter-examples, conclusive MY 859 and 4156,
+both involve the collocation ayu sa-basiru ‘the sweetfish sa-runs’.
+20 Satere´-Mawe´ (Tupian) has an active system marked by two series of personal prefixes on the verb
+        <xref ref-type="bibr" rid="ref39">(cf.
+Mithun 1991)</xref>
+        .
+        <xref ref-type="bibr" rid="ref38">Meira (2006)</xref>
+        shows that in Mawe´ nonactive verbs are strikingly similar to (possessed)
+nouns: the same set of personal prefixes appears on nouns and nonactive verbs; these prefixes do not
+select active verbs.
+21 On both nouns and verbs sa- (but not i-) triggers rendaku (realized in OJ as prenasalization) on the
+following voiceless obstruent. This suggests an etymological source of the shape *saN(V). *Sa may be
+related to the mesial pronouns sa ‘thus’, so ‘that’, and si ‘s/he it’ while *N(V) appears related to genitive/
+inactive no.
+22 Commenting on (30b), Kojima et al. (1995, vol. 3, p. 191) observe exactly the distinction we describe here
+between i-watar- and sa-watar-. They note that while i-watar- occurs only with human subjects, sa-watar- is
+restricted to nonhuman subjects. They fail to extend this distinction to other verbs, however.
+as ‘the moon’ in (30b) receive no rather than bare marking. 25 Under this analysis,
+no-marking is licensed by a higher head, outside the active alignment system of OJ
+nominalized clauses.
+      </p>
+      <p>Turning now to conclusive clauses, unmarked subjects occur freely both as the
+external argument of a transitive and the internal argument of an unaccusative, as
+shown in (33).
+a. 烏梅能波奈 伊麻佐加利奈利</p>
+      <p>Ume no pana Ø ima sakari nar-i.</p>
+      <p>Plum Gen blossom now at.peak be-Conc
+‘The plum blossoms are now at their peak.’
+b. 見度婆 安麻乎等女登母 多麻藻可流美由
+Miwatase-ba amawotomye-domo Ø tama mo Ø karu
+Look cross-when fisher maiden-Pl pearl seaweed gather
+miy-u. (MY 17/3890)
+appear-Conc
+‘When I look around, the fishermaidens appear to be gathering pearly
+seaweed.</p>
+      <p>While clitic pronouns are uniformly marked by ga and restricted to nominalized
+clauses as shown in Sect. 3.3, strong pronouns in subject position are unmarked
+morphologically and never appear with ga.
+(34)
+a. 吾草取有
+ware Ø kusa Ø tor-er-i
+I weed take-Perf-Conc
+‘ I am picking weeds.’
+b. 安米都知能 可未乎許比都々</p>
+      <p>Ametuti no kamwi wo kopitutu
+heaven.earth Gen god Acc pray
+(MY 10/1943)
+安礼麻多武
+are Ø mat-am-u.</p>
+      <p>
+        I wait-Presum-Conc
+(MY 15/3682)
+‘Praying to the gods of heaven and earth, I will wait.’
+Bare objects as in (33b) in conclusive clauses can be analyzed as receiving
+structural accusative case from v, as proposed by
+        <xref ref-type="bibr" rid="ref40">Miyagawa (1989)</xref>
+        . Bare subjects as in
+(33a) can be analyzed as receiving nominative case from T, as in modern Japanese
+(Takezawa 1987). While the phonological exponence of nominative and accusative
+case differs, the syntactic mechanisms for case marking in OJ conclusive clauses are
+essentially the same as in modern Japanese. However, the sharp difference between
+the patterns in conclusive and nominalized clauses confirms that OJ was a language
+with split alignment: while conclusive clauses follow a nominative-accusative
+pattern, distinguishing S/A and O, nominalized clauses show an active pattern,
+distinguishing SA and SO and grouping SA with A. In the next section we turn to
+object marking in nominalized clauses.
+25 We leave the precise landing site of no-marked unaccusative subjects in OJ for future research.
+      </p>
+    </sec>
+    <sec id="sec-16">
+      <title>5.1 Bare objects</title>
+      <p>
+        As we saw in Sect. 2.1,
+        <xref ref-type="bibr" rid="ref40">Miyagawa (1989)</xref>
+        argues that in Early Middle and Old
+Japanese, adnominal predicates fail to assign accusative case, and hence an object
+must be licensed by morphological case in the form of wo in order to avoid a
+violation of the Case Filter. There are, however, a number of OJ examples in which
+an adnominal predicate takes an object lacking a morphological case, which are thus
+apparent counter-examples to Miyagawa’s (1989) generalization. Yanagida (2007b)
+shows that in the Man’yoˆ shuˆ there are 90 tokens of transitive clauses whose subject
+is marked by no or ga and whose object is morphologically unmarked. Fifty-five
+occur with attributive predicates, as in (35).
+5 Object marking in nominalized clauses
+This section discusses the two patterns of object marking in nominalized clauses.
+We focus on adnominal clauses because of their higher frequency, but the same
+generalizations hold for the three other types of nominalized clauses.
+a. 佐欲比賣能故何 比列布利斯
+      </p>
+      <p>Saywopimye no kwo ga pire puri-si
+Sayohime Gen child Act scarf wave-Past.Adn
+夜麻能名
+yama no na
+hill Gen name
+‘the name of the hill where Sayohime waved her scarf’
+b. 之加乃白水郎之 燒塩煙風</p>
+      <p>Sika-no ama no sipo yak-u keburi (MY 7/1246)
+Shika Gen fishermen Gen salt burn-Adn smoke
+‘the smoky haze raising when fishermen of Shika burn salt’
+(MY 5/868)
+However, while bare objects do occur with adnominal predicates, there is a clear
+pattern to the counter-examples. The bare objects are almost without exception
+nonbranching N0s. Of the 55 examples of this type, only one has a phrasal object, MY
+2639 in (36):26
+(36)
+憑也君之 吾之名告兼
+Tanome ya kimi ga waga na norikyem-u? (MY 11/2639)
+Trust Foc/Q lord Act my name state-PConj-Adn
+‘Is it because (he) trusts in me, that my Lord has stated my name?’
+In relative clauses, where the predicate is realized in the adnominal form, bare
+objects are systematically non-branching, as in (37) (see Appendix 1 for possible
+exceptions).
+26 It should also be noted that on the clitic analysis of pronoun þ ga (4.1, Yanagida 2007b), the bare
+object wa ga na ‘my name’ in (36) is not, strictly speaking, phrasal.
+(MY 6/936)
+玉藻苅 海未通女等
+[tamamo kar-u] amawotome-domo
+seaweed cut-Adn fisherwoman-Pl
+‘the fisherwomen who are gathering seaweed’
+Chukchee (Spencer 1999)
+a. Muri myt-ine-rety-rkyn kimitʔ-e.</p>
+      <p>we-Abs we-AP-carry-Pres/II load-Instr
+‘We are carrying the load.’
+b. Ytlyg-yn qaa-tym-gʔe.</p>
+      <p>
+        father-Abs deer-killed-3SG
+‘The father killed a deer.’
+Based on these distributional facts, we propose that bare objects in nominalized
+clauses like (35) are to be analyzed on analogy with incorporated objects in
+Chukchee (Spencer 1999):
+Chukchee is a split ergative language that has two types of derived intransitive
+constructions with semantically transitive verbs (Spencer 1999). One is the
+antipassive in (38a), where O is marked with oblique case and A is absolutive; the
+second, restricted to N0 objects, is the object incorporation strategy in (38b). The
+incorporation strategy for objects is also widely attested in American languages
+displaying active alignment
+        <xref ref-type="bibr" rid="ref49">(Sapir 1911)</xref>
+        .
+      </p>
+      <p>
+        We propose that OJ uses the incorporation strategy for bare objects, like
+Chuckchee. Following the basic approach of
+        <xref ref-type="bibr" rid="ref5">Baker (1988)</xref>
+        , non-branching nouns
+immediately adjacent to an adnominal predicate are incorporated into the verb, and
+incorporation satisfies the case requirements of the incorporee. This preserves
+Miyagawa’s generalization that the object of the adnominal predicate is not assigned
+abstract case in its base position.
+      </p>
+    </sec>
+    <sec id="sec-17">
+      <title>5.2 Wo-marked objects</title>
+      <p>
+        Vovin (1997), developing the hypothesis that OJ is an active language, proposes that
+wo is an absolutive case marker because it marks not only the objects of transitive
+verbs but also the subjects of non-active intransitives, primarily adjectives. Most of
+these occur in a pattern involving the adjectival stem plus the suffix -mi:
+(39)
+久左麻久良 多婢乎久流之美 故非乎礼婆
+kusa makura tabi wo kurusi-mi kopi wor-eba (MY15/3674)
+grass pillow travel Obj painful-mi long.for be-when
+‘as I am longing for (my wife) travel being painful’
+There are also some examples in which a subject marked by wo occurs with inactive
+predicates followed by the complementizer to (40):
+(40) a. 世間乎 宇之等夜佐之等
+yononaka wo u-si to yasa-si to
+world Obj dreary-Conc Comp shameful-Conc Comp
+於母倍杼母
+omop-e-domo (MY 5/893)
+think-Rls-though
+‘though I feel the world unpleasant and shameful’
+b. 和礼乎 伊都伎麻佐牟等 登比之古良
+ware wo itu ki-mas-am-u to topi-si kwo-ra
+I Acc when come-Hon-Conc Comp ask-P.Adn child-Affec
+(MY20/4436)
+‘that dear girl, who asked when I would come back’
+        <xref ref-type="bibr" rid="ref42">Miyagawa and Ekida (2003)</xref>
+        propose that examples like (40a–b) are instances of
+exceptional case marking (ECM), on the assumption that wo is the spellout of
+abstract case assigned by the matrix verb. Yanagida (2006) argues that OJ has no
+ECM construction and that wo-marked subjects in the pattern with to-clauses as in
+(40a–b) are arguments of the higher verb (which, as we observe, has a nominalized
+inflection, realis and adnominal, respectively).27 Under either analysis, wo is
+assigned not by the embedded intransitive predicate but by the matrix transitive
+verb. Note that this leaves open the status of the NP wo…-mi pattern, to which we
+return at the end of this section.
+      </p>
+      <p>
+        The strongest argument against the analysis of wo as an absolutive marker is that the
+subject of a non-active intransitive verb is never marked by wo in adnominal, realis or
+irrealis conditionals, or –aku nominal clauses. It is either morphologically unmarked
+or marked by genitive no, as discussed in section 4 and exemplified by (41–42).
+‘if this evening a mulberry branch comes flowing down’
+k-o-ba
+come-Irr-if
+(MY 3/386)
+27 See
+        <xref ref-type="bibr" rid="ref22">Hoji (1991)</xref>
+        for a similar analysis of so-called Raising to Object constructions in modern Japanese.
+b. 宇能花能 佐久都奇
+u no pana no sak-u tukwi
+utugi Gen blossom Gen bloom-Adn month
+‘the month when the utsugi blossom is in bloom.’
+If wo was an absolutive case marker, we would have no explanation for why the
+subject is never marked by wo in the contexts given in (41–42).
+      </p>
+      <p>
+        The particle wo differs significantly from its descendant o in modern Japanese in
+that it marks not only direct objects but all kinds of VP-internal arguments including
+quasi-adjuncts
+        <xref ref-type="bibr" rid="ref44">(cf. Motohashi 1989)</xref>
+        . In (43a), wo marks the goal argument, and in
+(43b–e) it marks source, locative, and time adjuncts. In (43f–g) wo co-occurs with a
+locative adjunct marked by ni, ‘in/at’.
+a. 象小河乎
+      </p>
+      <p>Kisa no
+Kisa Gen
+wogapa
+stream</p>
+      <p>行見為
+wo yuki-te
+Obj go-ing
+mi-m-u
+see-Presum-Adn
+tame
+purpose
+(MY 3/332)
+(MY17/4008)
+‘in order to go and see the Kisa stream.’
+b. 奈良乎伎波奈礼</p>
+      <p>Nara wo k-i panar-e
+Nara Obj come-Inf leave-Inf
+‘coming away from Nara.’
+c. 川邊乎春雨
+kapabe wo parusame
+riverside Obj spring rain
+g. 安治佐為能夜敝 佐久其等久</p>
+      <p>Adisawi no yapye saku gotoku
+hydrangeas Gen eight-layer bloom as</p>
+      <p>伊麻世
+ni wo imase.</p>
+      <p>Loc Obj live-Imp
+‘As hydrangeas have eightfold flowers, so may (my lord) live
+for eight generations.’
+夜都与尓乎
+yatuyo
+eight generations
+(MY 20/4448)
+These facts make it difficult to analyze wo merely as the spellout of VP-internal
+structural case. In (43f–g), for example, it is unclear why structural case would be
+required for PPs headed by the locative postposition ni.</p>
+      <p>This property correlates with the generalization about the word order of OJ clauses
+containing wo mentioned in section 1. As shown by Yanagida (2006), the relative
+position of the subject and the wo-marked object is such that the latter always precedes
+the former, as shown in (4) and (19a).28 Additional examples are given for adnominal
+(44a), -aku (44b), and realis (44c) clauses below. (See Appendix 2 for a preliminary
+correlation of conjugational forms with wo-marking in the Man’yoˆ shu.)
+a. 和礼乎也未尓也 伊毛我古非都追珠</p>
+      <p>Ware wo yami ni ya imo ga kwop-i-tutu
+I Obj dark in Q wife Act longing.for
+安流良牟
+aru ram-u?
+be PConj-Adn
+(MY 15/3669)
+‘Would my wife be longing for me in the dark?
+b. 伎美乎 安我麻多奈久尓
+kimi wo a ga mat-ana-ku ni (MY 17/3960)
+lord Obj I Act wait-not-Inf Loc
+‘without me waiting for you’
+c. 草香乃山乎 暮晩尓</p>
+      <p>
+        Kusaka no yama wo yupugure ni
+Kusaka Gen mountain Acc twilight in
+吾超来者
+wa ga kwoye ku-re-ba (MY 8/1428)
+I Act cross come-Rls-Cond
+‘when I cross over Kusaka mountain in the twilight’
+Yanagida (2007a) lists 65 examples of XP wo preceding subjects. In contrast, the
+Man’yoˆ shuˆ contains only one example interpreted as involving the order Agent ga …
+XP wo. 29
+28
+        <xref ref-type="bibr" rid="ref25">Kinsui (2001)</xref>
+        also observes this generalization.
+29 The example is:
+(i) 夜麻能奈等 伊賓都夏等可母 佐用比賣何
+      </p>
+      <p>Yama no na to ipi tug-ye to kamo Saywopimye ga
+Mountain Gen name Comp say tell-Imp Comp Q Sayohime Act
+許能野麻能閇仁 必例遠 布利家牟
+kono yama no pe ni pire wo puri-kyem-u
+this mountain top on scarf Obj wave-PPresum-Adn
+‘Might Sayohime have waved her scarf on the top of this mountain, (saying) ‘‘Pass it on!
+This mountain’s name!’’</p>
+      <p>
+        In addition to this regularity about their word order, it has been observed by
+        <xref ref-type="bibr" rid="ref44">Motohashi (1989)</xref>
+        that wo-marked phrases tend to be definite. In fact the
+generalization is slightly broader: wo-marked phrases are specific. This can be shown by
+the fact that wh-pronouns can be marked by wo, but when they are, they receive a
+specific interpretation in contrast to bare wh-pronouns. This is shown in the contrast
+between the following two examples.
+真木乃板戸乎 押開 思恵也出来根
+Maki no itatwo wo osi piraki siweya ide ko-ne
+wood Gen door Obj push open damn out come-Des
+後者何将為
+noti pa nani se-m-u?
+after Top what do-Presum-Adn
+‘Pushing open the door (I say) ‘‘Come out, dammit!’’ Then what will
+(I) do?’
+潮干去者 玉藻苅蔵 家妹之
+sipo pwi-na-ba tamamo kari tum-ye ipye no imwo ga
+tide recede-Perf-if seaweed cut gather-Imp house Gen wife Act
+濱衣乞者 何矣示
+pamaduto kop-aba nani wo simyesa-m-u?
+shore.gift want-if what Obj proffer-Presum-Adn
+‘If the tide has gone out, cut and gather the precious seaweed! If my wife
+at home asks for gifts from the shore, which (other) shall I offer her?’
+(MY 3/360)
+(MY 11/2519)
+In (45), the universe of things the speaker might do is completely undefined in
+previous discourse. In (46), in contrast, the set of items that the speaker might offer
+his wife is defined as pamadutwo ‘gifts from the shore’. In this case nani wo ‘what/
+which Obj’ picks out specific items from that set.
+      </p>
+      <p>Yanagida (2006) analyzes the properties of adnominal clauses as in (47):</p>
+      <p>Case and argument realization in OJ
+(i) Ga-marked subjects stay in the base external argument position
+(Spec, vP).
+(ii) Bare objects are incorporated into the verb.
+(iii) Wo-marked objects obligatorily move to the outer Spec of vP,
+to check their [definite] feature.</p>
+      <p>Here we revise this analysis to take into account the new data reviewed in this section.
+First, the properties in (47) apply to nominalized clauses generally. Second,
+movement of wo-marked phrases is not triggered by a definite feature since wo-marked
+footnote 29 continued
+However, this example is open to at least one other interpretation, where Sapywopime ga is taken as the
+possessive modifier of ‘this mountain’, i.e., ‘On this, Sayohime’s mountain, might she have waved her
+scarf (saying) . . .’ A reviewer of Yanagida (2006) also cites MY 18/4036 as a counter-example, but this is
+based on a misinterpretation of this example.
+XPs may include wh-phrases and PPs, among other items. Instead, we would like the
+specificity of wo-marked phrases to be a by-product of their movement.</p>
+      <p>
+        We can capture these generalizations by returning to the basic insight of
+        <xref ref-type="bibr" rid="ref40">Miyagawa
+(1989)</xref>
+        : the verbal projection in nominalized clauses does not assign structural case.
+We saw in Sect. 4 that under the active analysis the ga-marked agent in nominaized
+clauses remains in Spec, vP and receives inherent case there. Following Miyagawa’s
+original proposal, we hypothesize that [nominal] v does not bear an accusative case
+feature. This leaves two options for case licensing objects: incorporation, in the case
+of nonbranching objects, or case assignment by a head above vP.
+      </p>
+      <p>
+        As we have seen, wo is realized to the left of the external argument, indicating that
+it is indeed assigned by a head above vP. There are two possible candidates for the
+identity of this head. One is T; this would bring OJ into line with analyses of certain
+ergative languages where absolutive case is assigned by T (
+        <xref ref-type="bibr" rid="ref1">Aldridge (2004)</xref>
+        ,
+        <xref ref-type="bibr" rid="ref34">Legate
+(2008)</xref>
+        ). The drawback of this approach is that OJ wo, as discussed above, does not
+show the distribution of a standard absolutive case: it does not appear on the subjects
+of inactive (or any kind of intransitive) verb. A possible way around this difficulty is to
+expand the analysis of nominative case assigned by T in nominalized clauses
+presented in Sect. 4.4. We proposed there that bare theme subjects are assigned
+nominative case by T selecting a defective vP in nominalized clauses. It could be
+hypothesized that nominative case is also assigned by T selecting nondefective, that
+is, transitive or unergative vP, but that nominative in this instance is spelled out as wo.
+An analysis along these lines seems possible, but it has the flavor of a stipulation, so
+we will not pursue it further here.
+      </p>
+      <p>The second option is that wo is assigned by a functional head between v and T.
+We propose that wo-marked DPs reside in the specifier of AspectP. Washio (2004)
+shows that aspect selection in OJ was sensitive to transitivity, suggesting that
+AspectP, rather than vP, was the locus for a [ transitive] feature. We hypothesize that
+[þtransitive] Aspect in OJ bears an EPP (Extended Projection Principle) feature that
+attracts the highest non-inherently case marked argument in the verbal projection to
+its specifier, as shown in (48).</p>
+      <sec id="sec-17-1">
+        <title>AspectP</title>
+        <p>DP wo
+Asp’
+vP</p>
+      </sec>
+      <sec id="sec-17-2">
+        <title>Aspect [+transitive]</title>
+        <p>
+          <xref ref-type="bibr" rid="ref12">Diesing’s (1992</xref>
+          ) hypothesis that bare NPs extracted from the nuclear scope of the
+clause receive a specific interpretation explains the [specific] property of wo marked
+phrases.
+        </p>
+        <p>
+          Note that this analysis correlates wo-marking and the position of wo-marked
+arguments with the presence of [+transitive] AspectP in nominalized clauses. We
+leave open the question of wo-marking in the other major clause types: conclusive,
+infinitive, and imperative. We show in Appendix 2 that wo-marking also occurs in
+these clauses, but as observed by
+          <xref ref-type="bibr" rid="ref40">Miyagawa (1989)</xref>
+          and
+          <xref ref-type="bibr" rid="ref42">Miyagawa and Ekida
+(2003)</xref>
+          , it is more restricted. In conclusive clauses, it is largely restricted to
+propositional attitude verbs of thinking or saying while in imperative clauses
+wo-marking seems to have been a mid-eighth century innovation, probably
+triggered by the phonological merger of certain infinitive and imperative endings.
+        </p>
+        <p>
+          The AspectP analysis extends naturally to Vovin’s characterization of the wo …
+–mi pattern in (39). AspectP is identified as the head of participial-type
+nominalization in analyses such as
+          <xref ref-type="bibr" rid="ref15">Embick (2004)</xref>
+          and
+          <xref ref-type="bibr" rid="ref3">Alexiadou and Anagnostopoulou
+(2008)</xref>
+          . Unlike the object Equi wo-marking pattern in (40), the wo-marked subject
+in wo…-mi clauses is not susceptible to a matrix object (or ECM) analysis because
+wo…–mi clauses are adjuncts, typically expressing reason or cause. We analyze the
+wo…–mi pattern as adjunct AspPs, analagous to Acc-ing gerunds such as ‘travel
+being painful’ in English:
+(49) [AspP tabi wo [VP kurusi ]mi] kofi wor-eba
+        </p>
+        <p>travel Acc painful-mi long.for be-when
+‘as I long for my wife, travel being painful’
+On this analysis, -mi is the spellout of the head of [þtransitive] AspP. The
+stipulation that –mi is [+transitive] may have a diachronic motivation, as one etymology
+for –mi derives it from the infinitive of the transitive verb mi- ‘see’. Wo… -mi
+clauses do not contain tense, which is consistent with our hypothesis that wo is
+assigned by a functional head lower than T.</p>
+        <p>
+          Summarizing the results of this section, we have shown that OJ had two
+mechanisms for case marking objects in nominalized clauses: incorporation and
+womarking above vP. The inability of v in nominalized clauses to assign accusative
+case is a direct extension Miyagawa’s (1989) original hypothesis. More generally,
+as we discuss in detail in Sect. 6.2, the active alignment properties of OJ
+nominalized clauses fit into the cross-linguistic pattern identified by ‘‘nominalist’’
+analyses of non-accusative alignment such as
+          <xref ref-type="bibr" rid="ref23">Johns (1992)</xref>
+          and
+          <xref ref-type="bibr" rid="ref24">Kaufman (2007)</xref>
+          .
+[Nominal] v is unable to check the case feature of the object. Objects must therefore
+be case licensed by other strategies: assignment of ‘absolutive’ case by T
+          <xref ref-type="bibr" rid="ref1 ref34">(Aldridge
+2004; Legate 2008)</xref>
+          , default absolutive
+          <xref ref-type="bibr" rid="ref34">(Legate 2008)</xref>
+          , incorporation, or, in the
+instance of OJ, case assigment by a functional head above vP.
+6 Alignment and nominalization in diachronic and typological perspective
+We have seen that OJ active alignment is restricted to the clause types we have
+called ‘nominalized’: adnominal (rentaikei), nominal complements in –aku, and
+realis (izenkei) and irrealis (mizenkei) conditionals. We have shown how the
+nominalized properties of these clauses are intimately linked with their active
+properties: nominalized clauses assign inherent agentive ga in Spec, vP, and
+[transitive] Aspect in these clauses attracts complements to a position above the
+external argument, where they receive wo-marking. In Sect. 6.1 we discuss the
+diachronic sources for the nominalized clause patterns in OJ. In Sect. 6.2 we show
+that nominalizations are a widely attested cross-linguistic source for non-accusative
+alignment. We focus on a specific case, Cariban languages as analyzed by Gildea
+(1998, 2000), and point out that it suggests a possible source for the wo-marking
+pattern in OJ. Section 6.3 discusses changes possibly already underway in OJ,
+involving the genitive/subject marker no.
+6.1 The nominalizing origins of the adnominal and irrealis conditional endings
+          <xref ref-type="bibr" rid="ref28">Konoshima (1962)</xref>
+          seems to have been the first to argue that the nominalizing or
+juntaigen ‘quasi-nominal’ function of the adnominal endings was primary, and its NP
+modifying function secondary. Adnominal clauses in OJ have the distribution of [þN]
+categories, i.e., NPs and uninflected adjectives. Like NPs, they may serve as subject or
+object of the clause and be followed by case markers. The NP modifying function of
+adnominal clauses is parallel to uninflected adjectives, which were able to directly
+modify NP in OJ.30 As we saw in Sect. 2.1,
+          <xref ref-type="bibr" rid="ref40">Miyagawa (1989)</xref>
+          also analyzes OJ and MJ
+adnominal clauses as [nominal].
+        </p>
+        <p>
+          Of the remaining three clause types that we have labeled nominalized, two are held
+to be diachronically derived from the adnominal. Nominal complements in –aku are
+derived by
+          <xref ref-type="bibr" rid="ref45">Ohno (1953)</xref>
+          from the adnominal form of the verb plus a noun *aku, e.g.,
+yuk-u ‘go-Adn’ þ aku &gt; yukaku ‘going;’ kuru ‘come-Adn’ þ aku &gt; kuraku
+‘coming.’31 Whitman (2004) derives the irrealis endings (-e for quadrigrade, -ure for
+other conjugations) from the proto-Japanese form of the adnominal ending *-or.
+        </p>
+        <p>
+          The irrealis (mizenkei) base in OJ is shown by Ohno to be of heterogeneous
+origin. It results from reanalysis of the initial vowel in various auxiliaries and
+suffixes as the ending of the irrealis (mizenkei) base. In the case of the irrealis
+conditional, the ending was *-a, probably related to the nominalizing suffix *-a
+hypothesized by
+          <xref ref-type="bibr" rid="ref47">Sakakura (1966</xref>
+          , pp. 286–303). This ending is preserved in such
+noun-verb pairs as tuk- ‘build up’ : tuka ‘mound;’ mur(e)- ‘gather’ : mura ‘group,
+village.’ The irrealis conditional appears productively only before the conditional
+particle –ba, which Ohno derives from locative ni + topic marker pa. If Ohno’s
+analysis is correct, it confirms the original nominalizing function of *-a as we expect
+locative ni to select a [nominal] form.
+30 It is widely held that inflected adjectives are a relatively late innovation in pre-OJ
+          <xref ref-type="bibr" rid="ref46">(Omodaka et al.
+1967, p. 4)</xref>
+          . It is easy to find OJ examples of uninflected adjectives directly modifying the noun, e.g.,
+kanasi imwo ‘dear beloved girl.’
+31 Ohno’s analysis is generally accepted, but its weak point is that there is no attested noun of the form
+*aku. An alternative preserving the core of Ohno’s insight would derive aku from the existential verb
+root a- ‘exist’ plus the adjectival continuative –ku. It has long been pointed out that derivatives of
+apartake in ‘‘stative’’-type inflections, e.g., conclusive –i in ar-i ‘exists.’ Nominals in –(a)ku would then
+derive from V-ADNOM + exist-CONT, ‘being V.’
+        </p>
+        <p>Summing up, the four clause types that show active-ergative alignment in OJ all
+derive from nominalizations: the adnominal, nominal, and realis conditional from
+the pJ nominalizing suffix *-or, and the irrealis conditional from a nominalizing
+suffix *-a.</p>
+      </sec>
+    </sec>
+    <sec id="sec-18">
+      <title>6.2 Nominalizations as sources for alignment</title>
+      <p>
+        A number of linguists have proposed nominalization structures as the diachronic
+source for non-accusative alignment, particularly for languages that show
+syncretism of agent and genitive marking. Proposals of this sort are made for Mayan
+        <xref ref-type="bibr" rid="ref7">(Bricker 1981)</xref>
+        , Austronesian
+        <xref ref-type="bibr" rid="ref24">(Starosta et al. 1982; Kaufman 2007)</xref>
+        , and Cariban
+        <xref ref-type="bibr" rid="ref18 ref19">(Gildea 1998, 2000)</xref>
+        .
+        <xref ref-type="bibr" rid="ref23">Johns (1992)</xref>
+        develops a synchronic account of Inuktitut
+ergativity based on nominalization.32 The starting point for these ‘nominalist’
+accounts of non-accusative alignment is similar to Miyagawa’s synchronic treatment
+of adnominal clauses in OJ: nominalized clauses are unable to assign structural
+accusative case. Depending on the features of T, or whether T is present,
+nominalized clauses may also be unable to assign structural nominative. The
+nonaccusative alignment properties of nominalizations can be seen in familiar
+examples, such as English derived nominalizations. Thus in the city’s destruction by the
+barbarians, the nominal projection assigns neither accusative nor nominative case;
+the external argument is licensed by the preposition by, and the internal argument is
+assigned genitive case by D.
+      </p>
+      <p>
+        From a diachronic perspective, the nominalist hypothesis holds that
+non-accusative alignment results when nominalized clauses are reanalyzed as main clauses.
+        <xref ref-type="bibr" rid="ref18">Gildea (1998)</xref>
+        discusses a particularly rich range of alignment and word order
+patterns resulting from reanalyzed nominalizations in Cariban. We focus here on
+what Gildea (1998, pp. 190–196, 2000, pp. 85–88), citing
+        <xref ref-type="bibr" rid="ref16">Franchetto (1990)</xref>
+        , calls
+the ‘De-ergative’ system in the Cariban languages Panare and Kuiku´ ro. The source
+for this system in earlier Cariban, according to Gildea, was an object nominalization
+selected by the matrix copula. In this source structure, the agent remained within the
+nominalized VP while the notional object argument of the nominalized verb
+corresponded to the subject of the matrix copula. Let us first look at a modern Panare
+example of the de-ergative pattern (50).33
+yu-noh pi ni-a’kama-piti-hpe¨ me¨n
+1-grandmother dead Agt.Foc-tell-Iter-Pst it
+‘My late grandmother told it over and over.’
+(Gildea (2000, p. 86))
+(51) shows the source structure that Gildea (2000: p. 88) posits for the de-ergative
+pattern:
+32 See
+        <xref ref-type="bibr" rid="ref36">Manning (1996)</xref>
+        for the global hypothesis that certain types of ergativity, in the broad sense, have
+their diachronic origins in nominalizations. We are grateful to Dan Kaufman for pointing us in the
+direction of this and other research in the ‘nominalist’ tradition of studies on ergativity, including his own.
+33 We provide only the segmented morphophonemic representation of Gildea’s Panare data in (50) for
+clarity of presentation.
+      </p>
+      <sec id="sec-18-1">
+        <title>Independent Clause</title>
+      </sec>
+      <sec id="sec-18-2">
+        <title>Predicate</title>
+      </sec>
+      <sec id="sec-18-3">
+        <title>Subject NP</title>
+      </sec>
+      <sec id="sec-18-4">
+        <title>Copula</title>
+        <p>Source: Poss
+n-V-Nmlzer</p>
+      </sec>
+      <sec id="sec-18-5">
+        <title>DErg-V-T/A (Auxiliary) O</title>
+        <p>The reconstructed source for a sentence like (50), for example, would involve an
+object nominalization with the meaning ‘what my grandmother told over and over
+again.’ ‘It’ is predicated of this nominalization by the matrix copula. The complete
+reconstructed source for (50) would thus have the form ‘It is [what my grandmother
+told over and over again].’ In Panare, this source structure is reanalyzed as
+monoclausal, as shown in (51): the copula is reanalyzed as an auxiliary, the
+nominalization as a verbal projection containing the verb and the external argument (A)
+in its base position, and the original subject as the object (O). Gildea (2000, p. 98)
+cites constituency tests showing that O in the Panare de-ergative construction is
+external to the minimal projection containing A and the verb.</p>
+        <p>Gildea’s account shows how reanalysis of a nominalization structure can result
+not just in non-accusative alignment but also in a cross-linguistically marked
+structure. The basic property of this structure is exactly the same as the property of
+wo-marked clauses in OJ identified by Yanagida (2006) and discussed in Sect. 5.2:
+the object surfaces ouside the minimal projection containing the external argument
+and the verb.</p>
+        <p>Japanese is not a member of a clearly defined language family of great time depth
+like Cariban, so in reconstructing earlier Japanese syntax we are confined to the
+technique of internal reconstruction. However we would like to conclude this
+section by suggesting the possibility that a reanalysis similar to (51) was the diachronic
+source of the O-wo S-gen V pattern in OJ. The etymological source of the object
+marker wo has long been debated, but one fact that has not been observed is that the
+shape of this particle is identical to the existential verb root wo-, which appears in
+the OJ verbs wor- ‘exist, sit’ and wi- ‘be at, sit.’34 We suggest that that wo
+originates as the copular verb in a construction parallel to the Cariban de-ergative
+pattern.
+34 Some linguists, such as Tokieda (1954), relate wo to the OJ sentence-final particle wo, which is
+claimed to be emphatic; Tokieda thus claims that the original function of object marking wo was
+emphatic. Whatever is meant by emphatic in this context, it cannot mean, for example, focus, since wo
+marked objects in OJ are typically definite and presupposed.</p>
+        <p>DP</p>
+      </sec>
+      <sec id="sec-18-6">
+        <title>CopP</title>
+        <p>Cop
+wo</p>
+        <p>vP
+Source:</p>
+        <p>VP
+wo [vP A
+In (52), as in (51), a source structure involving copula+nominalization is reanalyzed
+as monoclausal. The projection containing the original copula is reanalyzed as AspP,
+similar to the reanalysis of the copula as an auxiliary in Cariban. The rest of the
+structure remains the same. The most controversial aspect of (52) is likely to be the
+hypothesis that earlier Japanese may have had a right-branching copula. But even at
+the OJ stage, Japanese gives evidence for right-branching functional projections, such
+as the aspectual auxiliary ari ‘be’, the modal auxiliary e ‘be able’, and the negative
+imperative na, all of which appear to the left of the lexical verb (Whitman 2005).</p>
+        <p>In this section we have presented typological evidence suggesting that both the
+alignment and transitive constituent structure properties of OJ nominalized clauses
+fit into a larger cross-linguistic pattern. Nominalized clauses may provide the
+diachronic source for non-accusative alignment and for a synchronic pattern where the
+object appears outside the minimal projection containing the subject and the verb.</p>
+      </sec>
+    </sec>
+    <sec id="sec-19">
+      <title>6.3 After OJ: the reanalysis of no as nominative</title>
+      <p>As we have seen, in OJ the subject can be marked by ga or no, but their distribution is
+quite different. Ga marks the external argument of transitive/unergative verbs but not
+the internal argument of an unaccusative. No, on the other hand, patterns like a
+nominative case marker in that it can mark both the external argument of a transitives
+and the internal argument of intransitives, as we saw in Sect. 4.1:
+a. 弥騰里兒能 知許布我其登久
+midorigwo no ti kop-u ga gotoku
+infant Gen breast desire-Adn Agt like
+‘like a child desires its mother’s milk’
+b. 真木乃立 荒山中尓
+makwi no tatu ara yama naka
+tree Gen stand rough mountain inside
+‘in the rough mountains covered with trees’
+(MY18/4122)
+(MY 3/241)
+In (53a) no marks the subject of the transitive, and in (53b) it marks the subject
+of the unaccusative. The two particles ga and no behave differently at the
+syntactic level as well. Yanagida (2006) shows that when the subject and object
+are case-marked, the object always precedes the subject, as we saw in Sect. 4.2.
+But there are a few cases of no-marked subjects which violate this
+generalization. These are illustrated in (54). (Other Man’yoˆ shuˆ examples are 196, 2772,
+2831, 3689.)</p>
+      <p>春雨 乃
+parusame
+spring rain
+与久列杼
+yokure-do
+avoid-although
+吾等乎沾
+ware wo</p>
+      <p>I Obj
+‘Do people say that of me too?’
+In (54) no appears in a position preceding wo. Although this configuration is rare in
+the Man’yoˆ shuˆ , it becomes widespread in kunten glosses written early in EMJ. The
+following examples are taken from the Konkoˆ myoˆ Saishoˆ Oˆ kyoˆ ‘The Sutra of
+Golden Light’ (kunten text ca. 830; interpretations are based on Kasuga 1969).
+a. yoki wotoko yoki womina no … sinkyau no
+good men good woman Gen/Nom reverent Gen
+kokoro wo nasamu (K 3-5:46)
+mind Acc produce
+‘(that) good men and good women… might produce a reverent mind’
+b. yoki wotoko yoki womina no … Sanzyou dou
+good man good woman Gen/Nom Triya¯na way
+wo syusemu (K 3-5:50)
+Acc practice
+‘(that) good men and good women might master the Triya¯na doctrine’
+Another significant development revealed in this early EMJ text is that subject
+marking ga is used only in the form of aga ‘I.Subj’ and naga ‘you.Subj’; nominal
+subjects are never marked by ga.35 In the Man’yoˆ shuˆ the pronominal subjects aga
+35 There is one counter-example in the Konkoˆmyoˆ Saishoˆ Oˆkyoˆ where a nonpronominal subject takes ga
+and the object takes wo, in (i).
+我 弟 捨身
+waga wotofito ga mi
+my Gen brother Agt oneself
+‘My brother sacrificed himself.’
+wo tutete…
+Acc sacrifice
+(K 10-26:192)
+and naga are strictly adjacent to the verb, but in the Konkoˆ myoˆ Saishoˆ Oˆ kyoˆ they
+can occur in sentence initial position, preceding a wo-marked object, as shown in
+(56).
+a. wa ga katari wo idas-are-mu</p>
+      <p>I Agt words Acc produce-Pass-Presum
+‘the time when I (was able to) produce words’
+b. na ga yoku kono Myaugyau-wau
+you Agt successfully this Myaugyau-wau
+toki…
+time</p>
+      <p>(K 8-15:144)
+wo
+Acc
+rufu-si…
+propagate
+(K 8-15:146)
+‘you propagating this Myoˆ -kyoˆ successfully…’
+It appears from this data that ga as an active case marker, in the formal sense we have
+defined in this paper, was lost early in the EMJ period. The limitation of ga to first and
+second person pronouns was probably a step on the way in this process. (Recall that in
+many languages, active case is restricted to first and second personal pronouns.)</p>
+      <p>Finally, in Sect. 4.3.1 we saw evidence for a pronominal active prefix i- in OJ. In
+the Konkoˆ myoˆ Saishoˆ Oˆ kyoˆ , however, there are many instances of the
+postnominal particle i marking the agent arguments of transitive/unergative verbs, as
+shown in (57):</p>
+      <p>Ware i … ti ga sakai wo
+I Nom wisdom Ga border Acc
+‘I passed through the border of wisdom.’
+tuutatus-eri.
+pass-Rslt
+(K 8-19:155)
+As we saw in Sect. 2.3.1, Vovin (1997) analyzes the postnominal particle i in OJ as
+an active (agentive) marker. However, considering the fact that early kunten texts
+were heavily influenced by Korean glossing for Chinese Buddhist texts, it is
+possible that subject marking i is a borrowing of the Korean nominative marker i. This
+would be consistent with the view of Vovin (2005) that the much rarer subject
+marker i found in OJ is a Korean loan. In any case, EMJ i patterns like no, rather
+than OJ ga, in that it appears in a position preceding wo.</p>
+      <p>The word order facts suggest that Japanese was well on the way to developing
+accusative alignment even in nominalized clauses by the early EMJ period.
+Transitive subjects, regardless of the phonetic form of their case marker, were assigned
+case in a position higher than wo-marked objects. This case was spelled out as ga
+footnote 35 continued
+The eventual reanalysis of ga as a nominative particle in Tokyo and Kansai Japanese is a topic that far
+exceeds the scope of this paper. Yamada (2000) examines the increase in the frequency of ga by
+comparing the original text of the Tale of Heike, which is believed to reflect the language of the
+fourteenth century, with the Jesuit romanized text of Heike, known as the Amakusa Heike, published in
+1592. He observes that many of the unmarked subjects in the Tale of Heike came to be marked by ga in
+Amakusa Heike. This may indicate that ga reappeared as a nominative case in the late 16th century. The
+matter is confounded by the association of ga and no with pejorative and honorific functions, as reported
+by Jesuit grammarians in the early seventeenth century. Interestingly, according Yamada’s observation,
+ga in this period is used on the subjects of unaccusative verbs and adjectives but rarely on the subjects of
+a transitive/unergative verb. This contrasts directly with the distribution of ga in the Man’yoˆ sh uˆ.</p>
+      <sec id="sec-19-1">
+        <title>7 Conclusion</title>
+        <p>(on first and second person pronouns), i (on some agentive subjects), or no (the
+elsewhere case).
+In this paper, we have proposed that Japanese at its oldest attested stage, the central
+dialect OJ of the eighth century, shows evidence of active alignment. OJ displays a
+split in case marking beween main (conclusive) and nominalized clauses. Main
+conclusive clauses are accusative. Nominalized clauses display active alignment in
+case marking and cross-referencing of arguments on the verb through prefixation.
+The distinctive O wo S V pattern of transitive nominalized clauses identified by
+Yanagida (2006) is consistent with a formal analysis of active alignment where the
+external argument receives inherent active case in situ. Cross-linguistic comparison
+shows that nominalization is a widespread source for non-accusative alignment, as
+well as for a pattern where the surface position of the object is higher than the
+subject.</p>
+      </sec>
+      <sec id="sec-19-2">
+        <title>Appendix 1: Bare objects in relative clauses</title>
+        <p>The possible counter-examples to Miyagawa’s generalization in (5) are given
+below. Phrasal objects can appear with adnominal relative clause predicates when
+they occur in main clause initial position, as shown in (58).
+(58) a. [Tomo-no Ura-no iso-no murwo-no kwi-Ø]</p>
+        <p>Tomo Bay Gen beach Gen cypress Gen tree
+[[pro mimu-goto-ni api-misi] imo]pa wasura-ye-me yamo (MY 3/447)
+see wheneversee maid-TOP forget-AUX Q
+‘Whenever I see the cypress-tree by the beach beside Tomo Bay, would</p>
+        <p>I ever forget my dear who stood by me and saw it?’
+b. [Kadusika no Mama no iriyeni utinabiku tamamo-Ø]</p>
+        <p>Kazushika Gen Mama Gen inlet in wave seaweed
+[[pro kari-kyemu]tekwona] si omopo-yu (MY 3/433)
+cut-AUX maid FOC remembee-AUX
+‘I remember the maid who gathered the waving seaweed in the inlet
+of Mama of the Kazushika region.’
+The phrasal objects in clause-initial position in (58) are left dislocated to the left
+peripheral topic position. A left dislocated topic may serve as what is known as
+jokotoba ‘introductory stanza’, an important rhetorical device used throughout the
+Man’yoˆ shuˆ . The introductory stanza prefaces the contents of the succeeding verse.
+Note that a bare oblique NP can also be left dislocated out of a relative clause with
+an intransitive predicate, as in (59).
+(59) [Yupuyami-no konopa Ø] [[pro komoreru] tukwi] matu gotosi.
+evening-dark Gen tree-leave hide moon wait like
+(MY 11/2666)
+‘I feel as if I were waiting for the moon hidden behind an evening tree.’
+In OJ, not only the object of a transitive verb but also the locative adjunct of an
+intransitive verb can be morphologically bare. The bare NP in (59) is not a
+counterexample to Miyagawa’s generalization on two counts: first, it is an adjunct and thus
+is not assigned structural case; second, it occurs in main clause initial position and
+thus may be interpreted as left dislocated.</p>
+        <p>In other cases of bare NP adjuncts we know that the first explanation is at work.
+The two bare NP adjuncts ama no sita ‘the land’ (lit. ‘under the heavens’) and
+tamapoko-no miti ‘road’ can appear inside an adnominal clause: there are four
+occurrences of ama-no-sita and six of tamapoko-no miti, as illustrated in (60).
+(For other examples, see MY 162, 207, 230, 1738, 3276, 4006, 4098, 4465.)
+a. [Opotu no miya ni ama</p>
+        <p>Otsu Gen Palace to heaven
+sita Ø sirasime-kyem-u] sumyeroki
+under governed emperor
+‘the emperor who came to the Palace of Otsu to rule the land.’
+b. naku tori no kowe mo kikoye-zu
+sing bird Gen sound Foc hear-not
+[tamapoko no miti yuku] pito
+Epithet Gen street go people
+‘people who pass on the street, not hearing the songs of birds’
+no
+Gen
+(MY 1/29)
+(MY 2/207)
+Ama no sita ‘land’ and tamapoko-no miti ‘road’ are analyzable as compound
+nouns and thus are probably not true counter-examples. The word tamapoko
+belongs to the category of so-called makura kotoba ‘pillow words’ or epithets, which
+are fixed designators of the referent that follows them. They are conventionalized
+and often unintelligible. There are two genuine count-erexamples, listed below.
+a. [Akikaze no samuki asaake wo Sanu no
+fall wind Gen cold early morning Obj Sanu Gen
+oka Ø kwoyu-ramu] kimi ni kinu kasa masi wo
+hill cross-AUX lord to dress lend-Aux-Excl
+(MY 3/161)
+‘In the early morning when the autumn wind is cold, I wish to lend my
+dress to the lord who is going over the hill of Sano.’
+b. [Warafa ga mi ni pa yupipata no swode tuke
+young Gen me at Top color-printed Gen sleeve with
+goromo Ø ki-si] ware wo (MY 16/3791)
+clothes wear-P.Adn I-EXCL
+‘At a young age, I was like a child wearing clothes with sleeves</p>
+        <p>printed in colors.’
+Appendix 2: Wo in imperative and conclusive clauses
+Eight hundred three instances of wo-marked objects in the Man’yoˆ shuˆ are listed in
+Koji (1988). (These do not include wo-mi constructions, wo used for
+makurakotoba epithets, and occurrences with other particles such as wo-ba.)36 Most of the
+803 tokens appear in nominalized clauses, as expected; that is, the predicates in the
+irrealis (mizenkei) conditionals, continuative (renyoˆ kei), adnominal (rentaikei),
+realis (izenkei), and –aku nominal clauses. There are, however, some exceptions:
+Six instances of wo-marked objects appear with the predicate in the imperative form
+(62), and 34 appear with the conclusive predicate in main and purposive clauses
+marked by to (63–64).
+(62) Imperative: (6 tokens)</p>
+        <p>Aki no yupupye wa ware wo sinopas-e.
+autumn Gen evening Top me Obj remember-Imp
+‘(On) autumn evenings, remember me.’
+(MY 20/4444)
+Main clause conclusive: (23 tokens)
+a. Putari site musubisi pimo wo pitori site are pa
+together tied cord Obj alone I Top
+toki mi-zi. (MY 12/2919)
+untie try-Neg.Conj.Conc
+‘The sash cords that we tied together, I will surely not untie alone.’
+b. Ware-wo wasuras-u na. (MY 14/3457)
+me-Obj forget-Conc Neg.Imp
+‘Don’t forget me.’</p>
+      </sec>
+    </sec>
+    <sec id="sec-20">
+      <title>Conclusive in to-marked clauses: (11 tokens) tama wo pirop-u to jewel Obj find-Conc Comp ‘in order to find the jewel’</title>
+      <p>(MY 7/1220)
+There are 119 additional instances of wo-marked objects that precede to-marked
+clauses, but they may be taken as arguments of ellipted higher verbs such as omopu
+‘think’ or ipu ‘say’. In these examples, wo-marked objects are arguments of
+nonconclusive, non-imperative clauses, as illustrated in (65).</p>
+      <p>Kimi woi [proi sakiku are to] (omopite)
+lord Obj safe be Comp (thinking)
+ipapibe sue-t-u.
+offering vessel place-Perf-Conc
+‘(Thinking) of my lord, ‘May he be safe,’ I placed the offering vessel.’
+(MY 17/3927)
+36 According to Koji (1988), there are a total of 1,557 instances of object marking wo in the Manyoˆshuˆ.
+As discussed in Sect. 5.2, we assume that OJ has no ECM constructions; the
+womarked subject of the inactive verb is in fact the argument of the higher verb omopu
+‘think’, which has been deleted in (3927) but standardly interpreted as underlyingly
+present in this and similar examples. There are also in Koji (1988) at least three
+examples of wo-marked objects that precede to-marked clauses; these however
+should be taken as dislocated topics (MY 2/148, MY 10/2228, MY 20/4300). They
+are not arguments of embedded to-marked clauses but serve as jokotoba
+‘introductory stanzas’, as discussed above. There are also four occurrences of wo-marked
+objects embedded in –rasi clauses, as in (66) (MY 13, 3145, 4111, 4427).</p>
+      <p>Wagimoko si a wo sinop-u
+my.girl Emph me Obj think-Conc
+‘My girl seems to be thinking of me.’
+ras-i.
+seem-Conc
+(MY 12/3145)
+These data show that wo-marking had spread beyond nominalized clauses in the OJ
+period, but its distribution appears quite restricted. Most instances of wo-marking
+with conclusive predicates involve ‘that’ clauses such as (64–65), and many of the
+conclusive main clause examples such as (64a) involve topicalized objects. This
+suggests a scenario for the spread of wo marking to conclusive clauses. Topicalized
+wo-marked objects with propositional attitude verbs selecting a to-clause
+complement may have been reanalyzed as extracted directly from the to-clause, especially
+in contexts like (65), where the higher verb is dropped.</p>
+      <p>Support for this scenario comes from the rarity of wo-marking in imperatives.
+Koji (1988) cites only six examples. Four of these (MY 4009, 4444, 4177, and 4179)
+are from songs in volumes 17–19 of the Man’yoˆ shuˆ , composed by Ootomo no
+Yakamochi or his associates in the period around 750. Of the remaining two
+examples, MY 3764 was composed around the same period by Nakatomo no
+Yakamori while wo in MY 2352 is analyzable as a vocative particle. This suggests
+that wo-marking in imperatives was a relatively late innovation. It may have arisen
+by analogy with wo- marking in infinitive clauses, triggered by a phonological
+merger. Four of the five clear examples cited above involve imperative predicates
+with root final –s; imperative –ye and lower bigrade infinitive –e had merged after
+/s/ well before the eighth century.</p>
+      <p>Acknowledgements We wish to express our deep appreciation to Shigeru Miyagawa, Kunio Nishiyama,
+Alexander Vovin, and an anonymous JEAL reviewer for their comments. The authors are of course
+responsible for any errors. Work on this paper was supported by grants-in-aid for scientific research from
+the Japan Society for the Promotion of Science (JSPS) to Yanagida and a Japan Foundation grant to
+Whitman.</p>
+      <sec id="sec-20-1">
+        <title>Texts (Primary sources)</title>
+        <p>Kasuga, Masaji. 1969. Konkomy oˆ Saish oˆ Oˆkyoˆ Koten no Kokugogakuteki Kenky uˆ. [A linguistic
+study of the Kunten annotation of the Nishidaiji-bon Konkyoˆ saishoˆ oˆ-kyoˆ]. Tokyo: Benseisha.
+Koji, Kazuteru. 1988. Man’y oˆshuˆ Joshi no Kenkyu. [Research on the grammatical particles in the Many
+oˆshuˆ]. Tokyo: Kasama Shoin.</p>
+      </sec>
+      <sec id="sec-20-2">
+        <title>Electronic texts References</title>
+        <p>Japanese Text Initiative Electronic Text Center, University of Virginia Library. http://etext.lib.virginia.edu/
+japanese/jti.texts.euc.html
+National Institute of Japanese Literature. http://www.nijl.ac.jp/contents/d_library/index.html
+Yoshimura, Makoto. http://yoshi01.kokugo.edu.yamaguchi-u.ac.jp/manyou/manyou.html
+Sapir, Edward. 1917. Review of C.C Uhlenbeck: Het Passieve Karakter… In The collected works of</p>
+        <p>Edward Sapir V (1990), ed. W. Bright, 69–74. Berlin and New York: Mouton de Gruyter.
+Silverstein, Michael. 1976. Hierarchy of features and ergativity. In Grammatical categories in
+Australian languages, ed. R.M.W. Dixon, 112–171. Canberra: Australian Institute of Aboriginal
+Studies.</p>
+        <p>Spencer, Andrew. 1999. Chukchee homepage.
+http://privatewww.essex.ac.uk/~spena/Chukchee/CHUK</p>
+        <p>CHEE_HOMEPAGE.html
+Starosta, Stanley, Andrew Pawley, and Lawrence Reid. 1982. The evolution of focus in Austronesian. In
+Papers from the Third International Conference on Austronesian Linguistics, Vol. 2: Tracking
+the travelers, Pacific Linguistics C-75, ed. S.A. Wurm and L. Carrington. 145–170.
+Takezawa, Koichi. 1987. A configurational approach to case-marking in Japanese. Doctoral dissertation.</p>
+        <p>University of Washington
+Tokieda, Motoki. 1954. Nihon bunp oˆ koˆ go-hen [Japanese grammar, colloquial language edition].</p>
+        <p>Tokyo: Iwanami Shoten.</p>
+        <p>Van Valin, Robert D. 1990. Semantic parameters of split intransitivity. Language 66.2: 221–260.
+Vovin, Alexander. 1997. On the syntactic typology of Old Japanese. Journal of East Asian Linguistics
+6: 273–290.</p>
+        <p>Vovin, Alexander. 2005. A descriptive and compartive grammar of Western Old Japanese. vol. 1.</p>
+        <p>Folkestone: Global Oriental.</p>
+        <p>Washio, Ryuichi. 2004. Auxiliary selection in the East. Journal of East Asian Linguistics 13: 197–256.
+Watanabe, Akira. 2002. The loss of overt wh-movement in Old Japanese. In Syntactic effects of
+morphological change, ed. David W. Lightfoot, 179–195. Oxford: Oxford University Press.
+Whitman, John. 1997. Kakarimusubi from a Comparative Perspective. In Japanese/Korean Linguistics,
+vol. 6, Ho-min Sohn and John Haig, 161–178. Stanford: CSLI.</p>
+        <p>Whitman, John. 2004. The reconstruction of the rentaikei and origins of the izenkei. Paper presented at
+the Oxford Kobe Symposium on the History of Japanese.</p>
+        <p>Whitman, John. 2005. Preverbal elements in Korean and Japanese. In The Oxford handbook of
+comparative syntax, ed. Guglielmo Cinque and Richard Kayne, 880–902. Oxford: Oxford
+University Press.</p>
+        <p>Wichmann, Søren. 2008. The study of semantic alignment: Retrospect and state of the art. In The
+typology of semantic alignment, ed. Søren Wichmann and Mark Donohue, 3–23. Cambridge:
+Cambridge University Press.</p>
+        <p>Wichmann, Søren, and Mark Donohue. 2008. The typology of semantic alignment. Cambridge:</p>
+        <p>Cambridge University Press.</p>
+        <p>Woolford, Ellen. 1997. Four-way case systems: Ergative, nominative, objective, and accusative. Natural</p>
+        <p>Language and Linguistic Theory 15: 181–227.</p>
+        <p>Wrona, Janick. 2006. Why Old Japanese was not an ergative language. ms., Kyoto University.
+Wrona, Janick. 2008. A study of Old Japanese syntax: Synchronic and diachronic aspects of the
+complement system. London: Global Oriental.</p>
+        <p>Yamada, Masahiro. 2000. Shugo hyoˆji ga no seiryoku kakudai no yoˆso [The expansion of the use of the
+subject denotor ga: A comparison between the original Text of the Tale of Heike and Amakusaban
+Heike]. Kokugogaku 51-1: 1-14.</p>
+        <p>Yanagida, Yuko. 2005. Ergativity and bare nominals in Early Old Japanese. Paper Presented at Workshop
+on Theoretical East Asian Linguistics, Harvard University.</p>
+        <p>Yanagida, Yuko. 2006. Word order and clause structure in Early Old Japanese. Journal of East Asian</p>
+        <p>Linguistics 15: 37–68.</p>
+        <p>Yanagida, Yuko. 2007a. Miyagawa’s (1989) exceptions: An ergative analysis. MIT Working Papers in</p>
+        <p>Linguistics, vol. 55, ed. Yoichi Miyamoto, 265–276. Cambridge: MIT.</p>
+        <p>Yanagida, Yuko. 2007b. Joˆdaigo no noˆkakusei ni tsuite [On ergativity in Old Japanese]. In Nihongo no
+shubun genshoˆ [Main clause phenomena in Japanese], ed. Nobuko Hasegawa, 147–188. Tokyo:
+Hituzi Shobo.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <surname>Aldridge</surname>
+          </string-name>
+          , Edith.
+          <year>2004</year>
+          .
+          <article-title>Ergativity and word order in Austronesian languages</article-title>
+          .
+          <source>Doctoral dissertation</source>
+          , Cornell University.
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>Alexiadou</surname>
+          </string-name>
+          , Artemis.
+          <year>2001</year>
+          .
+          <article-title>Functional structure in nominals: Nominalization and ergativity</article-title>
+          . Amsterdam: John Benjamins.
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <surname>Alexiadou</surname>
+            , Artemis, and
+            <given-names>Elena</given-names>
+          </string-name>
+          <string-name>
+            <surname>Anagnostopoulou</surname>
+          </string-name>
+          .
+          <year>2008</year>
+          .
+          <article-title>Structuring participles</article-title>
+          .
+          <source>In Proceedings of WCCFL 26</source>
+          , ed.
+          <source>Natasha Abner and Jason Bishop</source>
+          ,
+          <fpage>33</fpage>
+          -
+          <lpage>41</lpage>
+          . Somerville: Cascadilla Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <surname>Allen</surname>
+            ,
+            <given-names>Nicholas J.</given-names>
+          </string-name>
+          <year>1975</year>
+          .
+          <article-title>Sketch of Thulung grammar</article-title>
+          . Cornell University East Asia Papers, vol.
+          <volume>6</volume>
+          . Ithaca: Cornell University.
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>Baker</surname>
+            , Mark,
+            <given-names>C.</given-names>
+          </string-name>
+          <year>1988</year>
+          . Incorporation. Chicago: The University of Chicago Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <surname>Bittner</surname>
+            , Maria, and
+            <given-names>Ken</given-names>
+          </string-name>
+          <string-name>
+            <surname>Hale</surname>
+          </string-name>
+          .
+          <year>1996</year>
+          .
+          <article-title>The structural determination of case and agreement</article-title>
+          .
+          <source>Linguistic Inquiry</source>
+          <volume>27</volume>
+          :
+          <fpage>1</fpage>
+          -
+          <lpage>68</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>Bricker</surname>
+          </string-name>
+          , Victoria.
+          <year>1981</year>
+          .
+          <article-title>The source of the ergative split in Yukatek Maya</article-title>
+          .
+          <source>Journal of Mayan Linguistics</source>
+          <volume>2</volume>
+          (
+          <issue>2</issue>
+          ):
+          <fpage>83</fpage>
+          -
+          <lpage>127</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <string-name>
+            <surname>Borer</surname>
+            , Hagit, and
+            <given-names>Ken</given-names>
+          </string-name>
+          <string-name>
+            <surname>Wexler</surname>
+          </string-name>
+          .
+          <year>1987</year>
+          .
+          <article-title>The maturation of syntax</article-title>
+          . In Parameter setting, ed.
+          <source>Thomas Roeper and Edwin Williams</source>
+          ,
+          <fpage>123</fpage>
+          -
+          <lpage>172</lpage>
+          . Dordrecht: Reidel.
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <string-name>
+            <surname>Chomksy</surname>
+          </string-name>
+          , Noam.
+          <year>2001</year>
+          .
+          <article-title>Minimalist inquiries: The framework</article-title>
+          .
+          <article-title>In Step by step: Essays on minimalist syntax in honor of Howard Lasnik</article-title>
+          , ed.
+          <source>Roger Martin, David Michaels and Juan Uriagereka</source>
+          ,
+          <fpage>89</fpage>
+          -
+          <lpage>156</lpage>
+          . Cambridge: MIT.
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <string-name>
+            <surname>Comrie</surname>
+          </string-name>
+          , Bernard.
+          <year>1978</year>
+          .
+          <article-title>Ergativity</article-title>
+          . In Syntactic typology, ed.
+          <source>Winfred Lehmann</source>
+          ,
+          <fpage>329</fpage>
+          -
+          <lpage>394</lpage>
+          . Austin: University of Texas Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <string-name>
+            <surname>Dahlstrom</surname>
+          </string-name>
+          , Amy.
+          <year>1983</year>
+          .
+          <article-title>Agent-patient languages and split case marking systems</article-title>
+          .
+          <source>In Proceedings of the 9th Annual Meeting of the Berkeley Linguistics Society</source>
+          , BLS 9, ed.
+          <source>Amy Dahlstrom and claudia Brugman</source>
+          ,
+          <volume>37</volume>
+          -
+          <fpage>46</fpage>
+          . Berkeley: Berkeley Linguistics Society.
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          <string-name>
+            <surname>Diesing</surname>
+          </string-name>
+          , Molly.
+          <year>1992</year>
+          . Indefinites. Cambridge: MIT.
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          <string-name>
+            <surname>Dixon</surname>
+            ,
+            <given-names>R.M.W.</given-names>
+          </string-name>
+          <year>1979</year>
+          . Ergativity.
+          <source>Language</source>
+          <volume>55</volume>
+          :
+          <fpage>59</fpage>
+          -
+          <lpage>138</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          <string-name>
+            <surname>Dixon</surname>
+            ,
+            <given-names>R.M.W.</given-names>
+          </string-name>
+          <year>1994</year>
+          . Ergativity. Cambridge: Cambridge University Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          <string-name>
+            <surname>Embick</surname>
+          </string-name>
+          , David.
+          <year>2004</year>
+          .
+          <article-title>On the structure of resultative participles in English</article-title>
+          .
+          <source>Linguistic Inquiry</source>
+          <volume>35</volume>
+          .3:
+          <fpage>355</fpage>
+          -
+          <lpage>392</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          <string-name>
+            <surname>Franchetto</surname>
+          </string-name>
+          , Bruna.
+          <year>1990</year>
+          .
+          <article-title>Ergativity and nominativity in kuikuro and other Carib languages. In Amazonian linguistics: Studies in lowland South American languages</article-title>
+          , ed. Doris L. Payne,
+          <volume>407</volume>
+          -
+          <fpage>427</fpage>
+          . Austin: University of Texas Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          <string-name>
+            <surname>Frellesvig</surname>
+            , Bjarke,
+            <given-names>and John</given-names>
+          </string-name>
+          <string-name>
+            <surname>Whitman</surname>
+          </string-name>
+          .
+          <year>2008</year>
+          . Proto-Japanese. Amsterdam: John Benjamins.
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          <string-name>
+            <surname>Gildea</surname>
+          </string-name>
+          , Spike.
+          <year>1998</year>
+          .
+          <article-title>On reconstructing grammar</article-title>
+          . Oxford: Oxford University Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          <string-name>
+            <surname>Gildea</surname>
+          </string-name>
+          , Spike.
+          <year>2000</year>
+          .
+          <article-title>On the genesis of the verb phrase in Cariban languages</article-title>
+          . In Reconstructing grammar:
+          <article-title>Comparative linguistics</article-title>
+          and grammaticalization, ed.
+          <source>Spike Gildea</source>
+          ,
+          <fpage>65</fpage>
+          -
+          <lpage>106</lpage>
+          . Amsterdam: John Benjamins.
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          <string-name>
+            <surname>Harada</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Shin-Ichi</surname>
+          </string-name>
+          .
+          <year>1971</year>
+          .
+          <article-title>Ga-no conversion and ideolectal variations in Japanese</article-title>
+          .
+          <source>Gengo kenkyuˆ</source>
+          <volume>60</volume>
+          :
+          <fpage>25</fpage>
+          -
+          <lpage>38</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          <string-name>
+            <surname>Hendriks</surname>
+          </string-name>
+          , Peter.
+          <year>1998</year>
+          .
+          <article-title>Kakari particles and the merger of the predicative and attributive forms in the Japanese verbal system</article-title>
+          .
+          <source>Japanese/Korean Linguistics</source>
+          <volume>7</volume>
+          :
+          <fpage>197</fpage>
+          -
+          <lpage>210</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          <string-name>
+            <surname>Hoji</surname>
+          </string-name>
+          , Hajime.
+          <year>1991</year>
+          .
+          <article-title>Raising-to-object, ECM, and the major object in Japanese</article-title>
+          .
+          <source>Paper presented at the Japanese Syntax Workshop</source>
+          . University of Rochester.
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          <string-name>
+            <surname>Johns</surname>
+          </string-name>
+          , Alana.
+          <year>1992</year>
+          .
+          <article-title>Deriving ergativity</article-title>
+          .
+          <source>Linguistic Inquiry</source>
+          <volume>23</volume>
+          .1:
+          <fpage>57</fpage>
+          -
+          <lpage>87</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          <string-name>
+            <surname>Kaufman</surname>
+          </string-name>
+          , Daniel.
+          <year>2007</year>
+          .
+          <article-title>The nominalist hypothesis in Austronesian</article-title>
+          . Paper given at ZAS Berlin,
+          <year>August 14</year>
+          ,
+          <year>2007</year>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          <string-name>
+            <surname>Kinsui</surname>
+          </string-name>
+          , Satoshi.
+          <year>2001</year>
+          .
+          <article-title>Joshi kara mita nihongo bunpou no rekisi [A history of Japanese grammar from the view point of particles] Lecture handout</article-title>
+          . Tokyo university.
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          <string-name>
+            <surname>Klimov</surname>
+            ,
+            <given-names>Georgij A.</given-names>
+          </string-name>
+          <year>1974</year>
+          .
+          <article-title>On the character of languages of active typology</article-title>
+          .
+          <source>Linguistics</source>
+          <volume>131</volume>
+          :
+          <fpage>11</fpage>
+          -
+          <lpage>25</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          <string-name>
+            <surname>Klimov</surname>
+            ,
+            <given-names>Georgij A.</given-names>
+          </string-name>
+          <year>1977</year>
+          .
+          <article-title>Tipologija jazykov aktivnogo stroja [Typology of languages of the active type]</article-title>
+          . Moscow: Nauka.
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          <string-name>
+            <surname>Konoshima</surname>
+          </string-name>
+          , Tadatoshi.
+          <year>1962</year>
+          .
+          <article-title>Chuˆkogo ni okeru yoˆgen rentaikei no yoˆhoˆ [The use of the participial adjective in medieval Japanese]</article-title>
+          .
+          <source>Kokugogaku</source>
+          <volume>48</volume>
+          :
+          <fpage>102</fpage>
+          -
+          <lpage>107</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          <string-name>
+            <surname>Kornfilt</surname>
+          </string-name>
+          , Jaklin.
+          <year>2003</year>
+          .
+          <article-title>Subject case in Turkish nominalized clauses</article-title>
+          .
+          <source>In Syntactic structures and morphological information</source>
+          , ed.
+          <source>Uwe Junghanns and Luka Szusich</source>
+          ,
+          <fpage>130</fpage>
+          -
+          <lpage>214</lpage>
+          . Berlin: Mouton de Gruyter.
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          <string-name>
+            <surname>Kuginuki</surname>
+          </string-name>
+          , Toˆru.
+          <year>1996</year>
+          .
+          <article-title>Kodai Nihongo no keitai henka [Morphological change in earlier Japanese]</article-title>
+          .
+          <source>Osaka: Izumi Shoin.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>
+          <string-name>
+            <surname>Kuroda</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Sige-Yuki</surname>
+          </string-name>
+          .
+          <year>1988</year>
+          .
+          <article-title>Whether we agree or not: a comparative grammar of English and Japanese</article-title>
+          .
+          <source>Linguisticae Investigationes</source>
+          <volume>12</volume>
+          :
+          <fpage>2</fpage>
+          -
+          <lpage>44</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation>
+          <string-name>
+            <surname>Kuroda</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Shige-Yuki</surname>
+          </string-name>
+          .
+          <year>2007</year>
+          .
+          <article-title>On the syntax of Old Japanese. In Current issues in the history and</article-title>
+          structure of Japanese, ed. Bjarke Frellesvig,
+          <string-name>
+            <given-names>J.C.</given-names>
+            <surname>Smith</surname>
+          </string-name>
+          , and Masayoshi Shibatani,
+          <fpage>263</fpage>
+          -
+          <lpage>318</lpage>
+          . Tokyo: Kurosio.
+        </mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation>
+          <string-name>
+            <surname>Lahaussois</surname>
+          </string-name>
+          , Aimee.
+          <year>2003</year>
+          .
+          <article-title>Ergativity in Thulung Rai: A shift in the position of pronominal split. Language variation: Papers on variation and change in the Sinosphere and in the Indosphere in honour of James A</article-title>
+          .
+          <string-name>
+            <surname>Matisoff</surname>
+          </string-name>
+          . Pacific Linguistics, ed. D.
+          <string-name>
+            <surname>Bardley</surname>
+          </string-name>
+          et al.
+          <volume>101</volume>
+          -
+          <fpage>112</fpage>
+          . Canberra: Australian National university.
+        </mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <mixed-citation>
+          <string-name>
+            <surname>Legate</surname>
+          </string-name>
+          , Julie.
+          <year>2008</year>
+          .
+          <article-title>Morphological and abstract case</article-title>
+          .
+          <source>Linguistic Inquiry 39.1</source>
+          ,
+          <fpage>55</fpage>
+          -
+          <lpage>101</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <mixed-citation>
+          <string-name>
+            <surname>Mahajan</surname>
+            ,
+            <given-names>Anoop</given-names>
+          </string-name>
+          <string-name>
+            <surname>Kumar</surname>
+          </string-name>
+          .
+          <year>1990</year>
+          .
+          <article-title>The A/A' distinction and movement theory</article-title>
+          .
+          <source>Doctoral dissertation</source>
+          , MIT.
+        </mixed-citation>
+      </ref>
+      <ref id="ref36">
+        <mixed-citation>
+          <string-name>
+            <surname>Manning</surname>
+            ,
+            <given-names>Christopher D.</given-names>
+          </string-name>
+          <year>1996</year>
+          .
+          <article-title>Ergativity: Argument structure and grammatical relations</article-title>
+          .
+          <source>Stanford: CSLI Publications.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref37">
+        <mixed-citation>
+          <string-name>
+            <surname>Marantz</surname>
+          </string-name>
+          , Alec.
+          <year>1997</year>
+          .
+          <article-title>No escape from syntax: Don't try morphological analysis in the privacy of your own lexicon</article-title>
+          . In University of Pennsylvania Working Papers in Linguistics, vol.
+          <volume>4</volume>
+          .2, ed. Alexis Dimitriadis et al.,
+          <volume>201</volume>
+          -
+          <fpage>225</fpage>
+          . Philadelphia: Penn Linguistics Club.
+        </mixed-citation>
+      </ref>
+      <ref id="ref38">
+        <mixed-citation>
+          <string-name>
+            <surname>Meira</surname>
+          </string-name>
+          , Sergio.
+          <year>2006</year>
+          .
+          <article-title>Stative verbs vs. nouns in Satere´-Mawe´ and the Tupian family. In What's in a verb: Studies in the verbal morphology of the languages of the Americas</article-title>
+          , Lot Occasional Series, ed.
+          <source>Graz'yna J. Rowicka and Eithne B. Carlin</source>
+          , pp.
+          <fpage>189</fpage>
+          -
+          <lpage>214</lpage>
+          . Netherlands Graduate School of Linguistics, Netherlands.
+        </mixed-citation>
+      </ref>
+      <ref id="ref39">
+        <mixed-citation>
+          <string-name>
+            <surname>Mithun</surname>
+          </string-name>
+          , Marianne.
+          <year>1991</year>
+          .
+          <article-title>Active/agentive case marking and its motivations</article-title>
+          .
+          <source>Language</source>
+          <volume>67</volume>
+          .3:
+          <fpage>510</fpage>
+          -
+          <lpage>546</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref40">
+        <mixed-citation>
+          <string-name>
+            <surname>Miyagawa</surname>
+          </string-name>
+          , Shigeru.
+          <year>1989</year>
+          .
+          <article-title>Structure and case marking in Japanese</article-title>
+          .
+          <source>Syntax and Semantics</source>
+          , vol.
+          <volume>22</volume>
+          . New York: Academic Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref41">
+        <mixed-citation>
+          <string-name>
+            <surname>Miyagawa</surname>
+          </string-name>
+          , Shigeru.
+          <year>1993</year>
+          .
+          <article-title>Case checking and the Minimal Link Condition</article-title>
+          .
+          <source>In Case and agreement II</source>
+          , MIT Working Papers in Linguistics, vol.
+          <volume>19</volume>
+          , ed.
+          <source>Colin Phillips</source>
+          ,
+          <fpage>213</fpage>
+          -
+          <lpage>254</lpage>
+          . Cambridge: MIT.
+        </mixed-citation>
+      </ref>
+      <ref id="ref42">
+        <mixed-citation>
+          <string-name>
+            <surname>Miyagawa</surname>
+            , Shigeru and
+            <given-names>Fusae</given-names>
+          </string-name>
+          <string-name>
+            <surname>Ekida</surname>
+          </string-name>
+          .
+          <year>2003</year>
+          .
+          <article-title>Historical development of the accusative case marking in Japanese as seen in classical literary texts</article-title>
+          .
+          <source>Journal of Japanese Linguistics</source>
+          <volume>19</volume>
+          :
+          <fpage>1</fpage>
+          -
+          <lpage>95</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref43">
+        <mixed-citation>
+          <string-name>
+            <surname>Miyamoto</surname>
+          </string-name>
+          , Edson T.,
+          <string-name>
+            <surname>Kenneth</surname>
+            <given-names>Wexler</given-names>
+          </string-name>
+          , Takako Aikawa, and
+          <string-name>
+            <given-names>Shigeru</given-names>
+            <surname>Miyagawa</surname>
+          </string-name>
+          .
+          <year>1999</year>
+          .
+          <article-title>Case-dropping and unaccusatives in Japanese acquisition</article-title>
+          .
+          <source>In BUCLD 23</source>
+          , ed. Annabel greenhill et al.,
+          <volume>443</volume>
+          -
+          <fpage>452</fpage>
+          . Somerville: Cascadilla Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref44">
+        <mixed-citation>
+          <string-name>
+            <surname>Motohashi</surname>
+          </string-name>
+          , Tatsushi.
+          <year>1989</year>
+          .
+          <article-title>Case theory and the history of the Japanese language</article-title>
+          .
+          <source>Doctoral dissertation</source>
+          , University of Arizona.
+        </mixed-citation>
+      </ref>
+      <ref id="ref45">
+        <mixed-citation>
+          <string-name>
+            <surname>Ohno</surname>
+          </string-name>
+          , Susumu.
+          <year>1953</year>
+          .
+          <article-title>Nihongo no doˆshi no katsuyoˆkei no kigen ni tuite [On the origin of the Japanese verb conjugations]</article-title>
+          . Kokugo to kokubungaku
+          <volume>350</volume>
+          :
+          <fpage>47</fpage>
+          -
+          <lpage>56</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref46">
+        <mixed-citation>
+          <string-name>
+            <surname>Omodaka</surname>
+          </string-name>
+          , Histaka et al.
+          <year>1967</year>
+          .
+          <article-title>Jidaibetsu kokugo daijiten, joˆ dai-hen [A dictionary of Japanese by period</article-title>
+          ,
+          <source>Old Japanese edition]</source>
+          . Tokyo: Sanseido.
+        </mixed-citation>
+      </ref>
+      <ref id="ref47">
+        <mixed-citation>
+          <string-name>
+            <surname>Sakakura</surname>
+          </string-name>
+          , Atsuyoshi.
+          <year>1966</year>
+          .
+          <article-title>Gok oˆsei no kenkyuˆ [Research on Word Formation]</article-title>
+          . Tokyo: Kadokawa shoten.
+        </mixed-citation>
+      </ref>
+      <ref id="ref48">
+        <mixed-citation>
+          <string-name>
+            <surname>Sasaki</surname>
+          </string-name>
+          , Takashi.
+          <year>1996</year>
+          .
+          <article-title>Joˆ daigo no koˆ bun to hy oˆki [The sentence structure and orthography of Old Japanese]</article-title>
+          . Tokyo: Hituzi Shoboˆ.
+        </mixed-citation>
+      </ref>
+      <ref id="ref49">
+        <mixed-citation>
+          <string-name>
+            <surname>Sapir</surname>
+          </string-name>
+          , Edward.
+          <year>1911</year>
+          .
+          <article-title>The problem of noun incorporation in American languages</article-title>
+          .
+          <source>American Anthropologist</source>
+          <volume>13</volume>
+          :
+          <fpage>250</fpage>
+          -
+          <lpage>282</lpage>
+          .
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

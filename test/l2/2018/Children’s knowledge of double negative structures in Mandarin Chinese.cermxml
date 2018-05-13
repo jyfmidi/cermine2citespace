@@ -1,0 +1,1735 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>J East Asian Linguist</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.1007/s10831-013-9118-y</article-id>
+      <title-group>
+        <article-title>Children's knowledge of double negative structures in Mandarin Chinese</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Peng Zhou</string-name>
+          <email>peng.zhou@mq.edu.au</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Stephen Crain</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Rosalind Thornton</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Logic</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>P. Zhou (&amp;) S. Crain R. Thornton Department of Cognitive Science, ARC Centre of Excellence in Cognition and its Disorders, Macquarie University</institution>
+          ,
+          <addr-line>Sydney, NSW 2109</addr-line>
+          ,
+          <country country="AU">Australia</country>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>2014</year>
+      </pub-date>
+      <volume>23</volume>
+      <fpage>333</fpage>
+      <lpage>359</lpage>
+      <history>
+        <date date-type="accepted">
+          <day>5</day>
+          <month>6</month>
+          <year>2013</year>
+        </date>
+        <date date-type="received">
+          <day>20</day>
+          <month>11</month>
+          <year>2012</year>
+        </date>
+      </history>
+      <abstract>
+        <p>This study investigated children's knowledge of double negation in Mandarin Chinese. Double negation is a phenomenon where two negatives cancel each other out, thereby yielding a positive meaning. Previous research found that children did not have knowledge of double negation until the age of seven or later. We argue that the observed difficulty of children in previous research is due to an artifact of the experimental task where the target structure was presented without the support of an appropriate context. To see whether preschool children have knowledge of double negation, we used experimental tasks which presented the structure in a plausible context. The results show that 5-year-olds already know that two negatives cancel each other out. By age 6 children are even able to produce double negation in an adult-like manner. This is evidence that double negation does not pose significant difficulty for young children if a plausible context is provided.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Plausible contexts</kwd>
+        <kwd>Child language</kwd>
+        <kwd>Double negation</kwd>
+        <kwd>Mandarin Chinese</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <fig>
+      <graphic xlink:href="Journal of East Asian Linguistics/2014/Children’s knowledge of double negative structures in Mandarin Chinese.images/img_9_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="Journal of East Asian Linguistics/2014/Children’s knowledge of double negative structures in Mandarin Chinese.images/img_10_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="Journal of East Asian Linguistics/2014/Children’s knowledge of double negative structures in Mandarin Chinese.images/img_12_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="Journal of East Asian Linguistics/2014/Children’s knowledge of double negative structures in Mandarin Chinese.images/img_18_1.png" />
+    </fig>
+    <sec id="sec-1">
+      <title>1 Introduction</title>
+      <p>
+        In logic, negation is a simple notion. Adding negation to a formula reverses its truth
+value (e.g., if a statement p is true, then not-p is false, and vice versa). There is only
+one negation operator in logic, and it can be applied iteratively. In logic, therefore,
+two negatives cancel each other out (e.g., not-not-p is equivalent to p). In contrast,
+negation in natural language is a complex phenomenon. Its effects go well beyond a
+simple change in truth value. Consider English. Negation can be marked by words
+like not (e.g., He did not go to the party), no (e.g., I have no doubt), and never (e.g.,
+She never loved me), and by prefixes such as un- (e.g., unhappy), in- (e.g., inactive)
+and dis- (e.g., dishonest). Negation also interacts with quantifiers. For example,
+English speakers interpret the sentence All vegetarians do not eat meat as having the
+meaning that no vegetarian eats meat, yet the same speaker would interpret the
+sentence All planes do not carry pets as meaning that some, but not all planes, carry
+pets
+        <xref ref-type="bibr" rid="ref12">(e.g., Hintikka 2002)</xref>
+        . This difference in interpretation is often referred to as a
+‘scope phenomenon.’ In the first example, the ‘none’ meaning arises because the
+universal quantifier all takes scope over the negation marker not (all [ not). In the
+second example, the ‘not all’ meaning arises, because the negation marker not takes
+scope over the universal quantifier all (not [ all). In addition, when two negatives
+occur in the same sentence, there is a subtle change in meaning between the double
+negative structure in (2) and its affirmative counterpart in (1). Although the two
+negatives in (2) cancel each other out, they produce a weakened affirmative, as
+compared to (1)
+        <xref ref-type="bibr" rid="ref13">(Horn 1989)</xref>
+        . To further complicate matters, in some languages like
+French and Italian, two negatives do not cancel each other out. For instance, in the
+Italian example (3), instead of cancelling each other out the two negatives equal a
+single semantic negation. So, (3) means that Gianni didn’t eat anything. This
+phenomenon is referred to as Negative Concord
+        <xref ref-type="bibr" rid="ref30">(see Zeijlstra 2004 for a detailed
+discussion)</xref>
+        .
+(1) It was possible that John failed the exam.
+(2) It was not impossible that John failed the exam.
+(3) Gianni non ha mangiato niente
+      </p>
+      <p>Gianni not has eaten nothing
+‘Gianni didn’t eat anything.’
+(4) I didn’t drive to work today.</p>
+      <p>
+        In natural language the use of negation is always subject to pragmatic constraints.
+Negative statements are generally used to point out discrepancies between a
+presumed expectation and the facts
+        <xref ref-type="bibr" rid="ref10 ref13 ref28 ref29 ref8 ref9">(Givo´n 1978, 1993; Glenberg et al. 1999; Horn
+1989; Wason 1965, 1971)</xref>
+        . For example, when hearing the negative sentence in (4),
+the listener would assume that the speaker normally drives to work. The sentence
+would sound awkward if it were uttered by someone who the listeners know
+normally commutes by train. We will refer to the pragmatic constraints as the
+felicity conditions on the use of negation. In natural language, the felicity conditions
+play a crucial role in the use of negative sentences, as we discuss below.
+      </p>
+      <p>The asymmetry between negation in logic and in natural language has been an
+important area of inquiry in both linguistics and psychology, since it provides
+insights into the relationship between logic and language. In particular, research has
+focused on children’s knowledge of negation, since it is there that light is shed on
+the development of our logical abilities. However, our current understanding of
+children’s knowledge of negation comes mainly from studies using a single
+negation. Few studies have looked at children’s knowledge of double negation. The
+present study investigates children’s comprehension and production of double
+negation in Mandarin Chinese. The purpose of the study is twofold: first, to
+determine the age at which children have mastered the law of double negation in
+logic, according to which two negatives yield a positive meaning and, second, to
+determine the age at which children first correctly apply negative markers iteratively
+to produce double negative structures. The paper is structured as follows. First we
+discuss the role of felicity conditions in processing negative sentences. Then we
+introduce the double negation phenomenon in Mandarin Chinese and review
+previous research on children’s understanding of double negation. We argue that
+children’s difficulty in processing double negative sentences, found in previous
+research, is minimized or eliminated altogether by providing appropriate contexts.
+Finally, we present two experiments investigating Mandarin-speaking children’s
+comprehension and production of double negative sentences.</p>
+    </sec>
+    <sec id="sec-2">
+      <title>2 The felicity conditions on the use of negation</title>
+      <p>
+        Negative sentences are generally presumed to be harder to process than their
+affirmative counterparts, resulting in longer response times and higher error rates
+        <xref ref-type="bibr" rid="ref2 ref24 ref27">(e.g., Carpenter et al. 1999; Sherman 1976; Wason 1959)</xref>
+        . However, research has
+also shown that for both adults and children negation does not pose significant
+processing demands when the felicity conditions associated with it are satisfied
+        <xref ref-type="bibr" rid="ref10 ref17 ref17 ref18 ref21 ref21 ref25 ref28 ref29 ref31 ref5">(e.g., de Villiers and Tager Flusberg 1975; Glenberg et al. 1999; Kaup et al. 2006,
+2007; Lu¨dtke and Kaup 2006; Staab 2007; Wason 1965, 1971)</xref>
+        . A number of
+experimental studies have found that the processing difficulty associated with
+negation can be alleviated or even eliminated if the experimental situation allows
+for the appropriate use of negative sentences.
+      </p>
+      <p>
+        For example,
+        <xref ref-type="bibr" rid="ref29">Wason (1971)</xref>
+        found that a negative sentence like (5) was more
+difficult for adults to process than a positive sentence like (6) even though (5) and
+(6) express the same proposition. However, the difficulty associated with negation
+was considerably mitigated when sentence (5) was preceded by a positive statement
+like 4 is an even number, as indicated in (7).
+(5) 5 is not an even number.
+(6) 5 is an odd number.
+(7) a. 4 is an even number, but 5 is not an even number.
+      </p>
+      <p>b. 4 is an even number, and 5 is not an even number.</p>
+      <p>
+        Similar findings were presented in
+        <xref ref-type="bibr" rid="ref10">Glenberg et al. (1999)</xref>
+        . These researchers
+conducted a series of experiments investigating adults’ processing of negative
+sentences, and they found that negative sentences were processed as fast as their
+positive counterparts when presented in appropriate contexts. For example, in one of
+their experiments, participants were asked to read both positive (e.g., (9a)) and
+negative sentences (e.g., (9b)) following either supportive contexts (e.g., context
+(8a) established an expectation that the couch might be black), or non-supportive
+contexts (e.g., context (8b) didn’t establish the expectation that the couch might be
+black). Participants’ reading times were then recorded.
+(8) a. She wasn’t sure if a darkly colored couch would look the best or a lighter
+color.
+      </p>
+      <p>She finally picked one out and had it delivered to her home.
+b. She wasn’t sure what kind of material she wanted the couch to be made of.</p>
+      <p>She finally picked one out and had it delivered to her home.
+(9) a. The couch was black.</p>
+      <p>b. The couch wasn’t black.</p>
+      <p>The results showed that negative sentences like (9b) were read as fast as positive
+sentences like (9a) when the negative sentences were preceded by supportive
+contexts (e.g., (8a)). On the basis of these findings, Glenberg and colleagues
+concluded that negative sentences are not necessarily harder to process than positive
+sentences if they are used in an appropriate context, and the processing difficulty
+associated with negation found in some previous studies might be due to an
+experimental artifact that negative sentences were presented outside of an
+appropriate context.</p>
+      <p>
+        The importance of an appropriate context in the use of negation has also been
+confirmed in children’s comprehension of negative sentences
+        <xref ref-type="bibr" rid="ref11 ref5">(e.g., de Villiers and
+Tager Flusberg 1975; Gualmini 2004)</xref>
+        . For example, de Villiers and Tager Flusberg
+(1975) investigated two- to five-year-old English-speaking children’s interpretation
+of negative sentences using a sentence completion task. In the task, seven or eight
+objects (or drawings) were placed in front of a child. Among these objects (or
+drawings), six or seven were similar and one was different (e.g., seven cars and one
+baby’s bottle). The experimenter then pointed to one of the objects and asked ‘‘This
+is a __?’’ or ‘‘This is not a __?’’, thus eliciting true affirmatives or true negatives. In
+this task, answering a negative probe for the exceptional item (e.g., the baby’s
+bottle) is more plausible than answering a negative probe for one of the similar
+items (e.g., one of the seven cars). Therefore, children were expected to respond to
+negative sentences like ‘‘This is not a __?’’ faster and more accurately when the
+experimenter pointed to the exceptional item than when the experimenter pointed to
+one of the similar items. This hypothesis was confirmed in the study. It was found
+that only the implausible negative sentences were associated with longer response
+times and higher error rates. If the negative sentences were presented in a plausible
+context (i.e., when the experimenter pointed to the exceptional item), four-year-old
+English-speaking children showed no differences in the interpretation of the
+affirmative sentences and the corresponding negative sentences. Based on the
+findings, de Villiers and Tager Flusberg concluded that negation does not pose
+significant processing demands for children if appropriate contexts are provided. By
+4 years of age, plausible negatives are no more difficult than affirmatives.
+      </p>
+      <p>
+        Taken together, previous research suggests that the difficulty of processing
+negative sentences can be mitigated if appropriate contexts are provided to satisfy
+the felicity conditions associated with negation. The nature of the processing
+difficulty associated with negation, as
+        <xref ref-type="bibr" rid="ref13">Horn (1989)</xref>
+        argued, is not a property of
+negation per se, but rather reflects a consequence of the way negative sentences are
+used in natural language. For the purpose of the present study, we propose that the
+same argument applies to children’s interpretation of double negation. More
+specifically, we want to argue that the difficulty associated with double negation,
+observed in previous studies, can be greatly minimized by providing an appropriate
+context. We present two experiments investigating how Mandarin-speaking children
+comprehend and produce double negative sentences. Before reporting the
+experiments, we will briefly introduce double negative structures in Mandarin Chinese,
+and review previous studies on children’s interpretation of double negative
+sentences.
+      </p>
+    </sec>
+    <sec id="sec-3">
+      <title>3 Double negative structures in Mandarin Chinese</title>
+      <p>
+        Mandarin Chinese is a typical double negative language
+        <xref ref-type="bibr" rid="ref20 ref3 ref6">(Cheng and Li 1991; Ding
+1961; Lu¨ 1985)</xref>
+        . There are two primary negation markers in Mandarin Chinese: bu
+and mei(you)1 (both are translated as English not). The two negation markers can be
+combined iteratively to form a double negative structure. The following examples
+illustrate.
+(10) Ta bu hui bu
+he not will not
+‘He won’t not come.’
+lai.
+      </p>
+      <p>come
+(11) Mei(you)-ren mei lai.</p>
+      <p>not(have)-person not come
+‘Nobody did not come.’2
+(12) Wo mei(you) bu xihuan xiandai yinyue.</p>
+      <p>I not(have) not like modern music
+‘It is not the case that I don’t like modern music.</p>
+      <p>(bu ? bu)
+(mei ? mei)
+(mei ? bu)
+In all the three examples, the two negatives cancel each other out, thereby yielding
+a positive meaning. So sentence (10) means he will come, sentence (11) means
+everybody came, and sentence (12) means I like modern music.</p>
+    </sec>
+    <sec id="sec-4">
+      <title>4 Double negation in child language</title>
+      <p>
+        Previous research on children’s understanding of negative sentences mainly focused
+on children’s knowledge of single negation
+        <xref ref-type="bibr" rid="ref11 ref19 ref22 ref31 ref32 ref5 ref7">(e.g., de Villiers and Tager Flusberg
+1975; Fan 2007; Gualmini 2004; Lee and Fan 2009; Pea 1980; Zhang et al. 2006;
+Zhou 2002)</xref>
+        . Most of these studies have found that two- to three-year-old children
+already know that negation reverses the truth value of a statement, and they use
+negation to deny statements. Studies on Mandarin-speaking children’s acquisition of
+negation have shown that Mandarin-speaking children have mastered the basic
+1 In Mandarin Chinese the morpheme -you is often omitted in the negation marker mei(you). So,
+throughout the text mei and mei(you) refer to the same negation marker.
+2 A double negative structure like nobody did not come might sound unnatural in English, but the
+corresponding structure, as in (11), is perfectly natural in Mandarin Chinese.
+semantics of the two primary negation markers bu and mei by age four
+        <xref ref-type="bibr" rid="ref19 ref31 ref32 ref7">(Fan 2007;
+Lee and Fan 2009; Zhang et al. 2006; Zhou 2002)</xref>
+        .
+      </p>
+      <p>
+        However, only a few studies have looked at children’s knowledge of double
+negation. Three studies, as far as we know, have directly investigated children’s
+understanding of double negative sentences, and the conclusion seems to be that
+preschool children do not have the concept of double negation, but rather they
+interpret double negation as single negation
+        <xref ref-type="bibr" rid="ref15 ref16 ref33">(Jou 1988; Jouie 1995; Zhu 1986)</xref>
+        .
+        <xref ref-type="bibr" rid="ref15">Jou
+(1988)</xref>
+        investigated Taiwan Mandarin-speaking children’s comprehension of double
+negation, using an act-out task. In the task, children were asked to carry out actions
+with dolls according to the test sentences containing double negation. Eleven age
+groups of children, ranging in age from 4 to 14 years, participated in this
+experiment. On a typical trial children heard a sentence as in (13), and were then
+asked to carry out the action using the dolls provided in the experimental
+workspace. It was found that children younger than 7 years of age consistently acted
+out the double negative sentences in a similar way as they did with the
+corresponding single negative sentences, rather than the corresponding positive
+sentences. For example, instead of acting out a positive meaning as in (14), children
+younger than 7 consistently acted out the double negative sentence in (13) as having
+a negative meaning in (15). Children aged between 7 and 13 acted out the double
+negative sentences either as having a positive meaning or having a negative
+meaning. Only the 14-year-olds consistently acted out the double negative sentences
+as having a meaning equivalent to the corresponding positive sentences.
+(13) Hong wawa meiyou bu ba lu¨ wawa tuidao.
+red doll not not cause green doll strike-down
+‘It is not the case that the red doll doesn’t strike down the green doll.’
+(14) Hong wawa ba lu¨ wawa tuidao-le.
+      </p>
+      <p>red doll cause green doll strike-down-ASP
+‘The red doll strikes down the green doll.’
+(15) Hong wawa meiyou ba lu¨ wawa tuidao.</p>
+      <p>
+        red doll not cause green doll strike-down
+‘The red doll doesn’t strike down the green doll.’
+On the basis of these findings, Jou concluded that children go through a stage where
+they analyze double negation as single negation before they acquire the law of
+double negation. Preschool children don’t have the concept of double negation. Jou
+attributed the late acquisition of double negation to the difficulty associated with
+processing negative information. The finding that preschool children have difficulty
+with double negation has also been reported in
+        <xref ref-type="bibr" rid="ref33">Zhu (1986)</xref>
+        and has been replicated
+for Cantonese-speaking children by
+        <xref ref-type="bibr" rid="ref16">Jouie (1995)</xref>
+        . Like in Jou’s study,
+        <xref ref-type="bibr" rid="ref33">Zhu (1986)</xref>
+        used an act-out task in which children were asked to act out the double negative
+sentences produced by the experimenter, using the toy props, and she found that
+Mandarin-speaking children younger than 7 had difficulty processing double
+negative structures. Using a similar task,
+        <xref ref-type="bibr" rid="ref16">Jouie (1995)</xref>
+        found that only 10-year-old
+Cantonese-speaking children consistently interpreted a double negative structure as
+having a positive meaning.
+      </p>
+      <p>
+        However, we want to argue that preschool children’s difficulty with double
+negation, observed in these previous studies, might not be due to their lack of
+concept of double negation, but rather due to the nature of the experimental task.
+These previous studies used act-out tasks. There are limitations of using an act-out
+task. In the task, the experimenter presents a sentence to the child participant and
+instructs the child to act out the sentence using toys and props that are present in the
+experimental workspace. We will argue that the results of this task can seriously
+undermine children’s knowledge of double negation.3 A major drawback of using
+an act-out task is that it presents the test sentences outside of a context. We suspect
+that younger children’s failure in processing a double negative structure in previous
+studies might be due to this design feature. For example, in Jou’s (1988) study,
+children were asked to act out a double negative sentence like (13) with no contexts
+provided. As we discussed, an appropriate context is crucial for children’s
+interpretation of negative sentences. So it is not surprising that the younger children
+in Jou’s study failed to process double negative structures when the sentences were
+presented outside of a context. In addition, it should also be noticed that the double
+negative structures used in Jou’s study were quite complex. Consider sentence (13)
+Hong wawa meiyou bu ba lü wawa tuidao ‘It is not the case that the red doll doesn’t
+strike down the green doll.’ The two negation markers in (13) are in separate
+clauses. Processing such a complex sentence without any supporting contexts would
+have already been difficult for the younger children. To act it out would have been
+even harder. To recap, we argue that the observed difficulty experienced by
+preschool children in processing a double negative structure might be due to the
+nature of the experimental task used in previous studies. We expect that this
+processing difficulty associated with double negation would be minimized if an
+appropriate context were provided. So to investigate the possibility that the
+experimental infelicities, and not the lack of the concept of double negation, were
+responsible for younger children’s difficulties in processing a double negative
+structure, we used experimental tasks which presented the double negative structure
+in a plausible context, and instead of using a double negative structure as in (13), we
+used a simpler double negative structure as in (11): Mei-you-ren mei lai ‘Nobody
+did not come’ where the two negative markers are in the same clause. More
+specifically, two experiments were conducted to test children’s knowledge of double
+negation. Experiment 1 used a truth value judgment task
+        <xref ref-type="bibr" rid="ref4">(Crain and Thornton 1998)</xref>
+        to investigate the age at which children have mastered the law of double negation,
+whereby two negatives cancel each other out, thus yielding a positive meaning.
+Experiment 2 used an elicited production task to determine the age at which
+children correctly produce double negative structures.
+3 It should be understood that we are not condemning all studies using an act-out task. The task is not
+inherently defective and there are places where it could be put to good use.
+      </p>
+    </sec>
+    <sec id="sec-5">
+      <title>5 Experiment 1</title>
+      <p>5.1 Participants</p>
+      <sec id="sec-5-1">
+        <title>5.2 Procedure</title>
+        <p>Thirty monolingual Mandarin-speaking children participated in this experiment.
+They were divided into two age groups4: 15 children were between 4;2 to 5;5 (9
+boys and 6 girls) and 15 children were between 5;6 to 5;10 (9 boys and 6 girls). All
+the child participants were recruited from the kindergarten at Beijing Language and
+Culture University. They had no reported history of speech, hearing or language
+disorders.</p>
+        <p>
+          We tested children using a truth value judgment task. This research technique is
+designed to investigate which meanings children can and cannot assign to sentences
+          <xref ref-type="bibr" rid="ref4">(Crain and Thornton 1998)</xref>
+          . The task involved two experimenters. One acted out
+stories using toy characters and props, and the other played the role of a puppet who
+watched the stories alongside the child participant. At the end of the story, the
+puppet attempted to explain to the child participant what it thought had happened in
+the story using a test sentence. The child’s task was to judge whether or not the
+puppet had said the right thing about the story. If the child informed the puppet that
+he was wrong, then he was asked to explain: ‘‘what really happened?’’ The child
+participants were introduced to the task individually and then tested individually.
+They were given four practice trials before the actual test, two in which the puppet’s
+statements were true descriptions of the corresponding stories, and two in which the
+puppet’s statements were false descriptions of the corresponding stories, so that
+children knew that the puppet could say something wrong. These practice trials
+were also used to familiarize children with the task. Only those children who
+correctly accepted the true statements and rejected the false statements were
+included in the actual test.
+5.3 Materials and design
+Six test trials were constructed. On three of the trials, the double negative structure
+was a true description of the corresponding story (hereafter ‘true’ scenario), and on
+the other three the double negative structure was a false description of the
+corresponding story (hereafter ‘false’ scenario). Two examples are used to illustrate.
+        </p>
+        <p>In a typical ‘true’ scenario, the experimenter acted out the story depicted in
+Fig. 1. In the story, the little hippo invited his friends, Garfield, the little bunny and
+Winnie the Pooh, to his birthday party. The day before the little hippo’s birthday
+Garfield and the little bunny already had their gifts ready, but Winnie the Pooh was
+having a toothache. So he hadn’t had a chance to prepare the gift. The next day
+4 The division of the child participants into the two age groups was done post-hoc, based on the
+performance of each individual participant. The findings of the first experiment show that there was a
+clear distinction between the response patterns of the children younger than 5;6 and those aged 5;6 and
+above.
+Garfield and the little bunny went to the party with their gifts, and they told the little
+hippo that Winnie the Pooh might not come because he was having a toothache. But
+when the party was about to begin, Winnie the Pooh showed up with a birthday gift.
+He had made it to the party after all. After the story, the puppet described what
+happened in the story, using the test sentence in (16). The child was then asked to
+judge whether or not the puppet had said the right thing about the story.
+(16) Mei-you-ren mei qu canjia
+not-have-person not go join
+‘Nobody did not go to the birthday party.’
+(Meaning: Everybody went to the birthday party.)
+shengri
+birthday</p>
+        <p>Note that in order to use a double negative structure felicitously, the expectation/
+presupposition associated with the structure must be established in the context. For
+example, the expectation/presupposition associated with a double negative structure
+like (16) is that not everybody was expected to go to the party, or somebody might
+not go to the party. So to satisfy this felicity condition associated with the structure,
+an expectation about the main characters’ actions was explicitly established at the
+beginning of the story. This was achieved by making clear the possibility that
+Winnie the Pooh might not go to the party because he was having a toothache and
+he hadn’t got the gift ready. However, when the story concluded it turned out that
+everybody made it to the party including Winnie the Pooh, and thereby the
+expectation established at the beginning wasn’t fulfilled.</p>
+        <p>In a typical ‘false’ scenario, the experimenter acted out the story depicted in
+Fig. 2.</p>
+        <p>In the story, three friends, the little turtle, the little elephant and the little donkey,
+went to look for their moms. The mommy elephant and the mommy turtle were in
+the forest, but the mommy donkey wasn’t there. The little elephant went to the
+forest and found his mom. So did the little turtle. The little donkey asked the zebra if
+she was his mom, but unfortunately the zebra told the little donkey that she was not.
+Fig. 2 Looking for moms
+So the little donkey didn’t find his mom. Following the story, the puppet produced
+the test sentence in (17). The child was then asked to judge whether or not the
+puppet had said the right thing about the story.
+(17) Mei-you-ren mei zhaodao mama.</p>
+        <p>not-have-person not find mother
+‘Nobody did not find his mother.’
+(Meaning: Everybody found his mother.)</p>
+        <p>Again, in order to establish the expectation/presupposition associated with the
+double negative structure in (17) (i.e., somebody might not be able to find his
+mother), at the beginning of the story it was made clear to the child that the mommy
+elephant and the mommy turtle were in the forest, but the mommy donkey wasn’t.
+So, the little donkey might not be able to find his mother. In the end, the little
+elephant and the little turtle found their mom, but the little donkey didn’t, and thus
+the expectation established at the beginning was fulfilled.</p>
+        <p>In addition, four control trials were included to verify that children could
+understand positive and single negative sentences. The stories used on the control
+trials were similar to those on the test trials. On two of the control trials, the puppet
+produced a positive structure like (18). On the other two control trials, the puppet
+produced a single negative structure like (19). Two of the control sentences were
+true descriptions of the corresponding stories and two were false descriptions of the
+corresponding stories. The test and control trials were presented in a pseudo-random
+order. All the test sentences are provided in Appendix 1.
+(18) Mei-ge-ren dou dabai-le laowupo.</p>
+        <p>every-CL-person all defeat-ASP witch
+‘Everybody defeated the witch.’
+(19) Mei-you-ren zhaodao lingdang.</p>
+        <p>not-have-person find bell
+‘Nobody found the bell.’</p>
+      </sec>
+      <sec id="sec-5-2">
+        <title>5.4 Predictions</title>
+        <p>If children have knowledge of double negation, then they would be expected to
+accept the double negative structures in the ‘true’ scenarios, and reject them in the
+‘false’ scenarios. For example, in the example ‘true’ scenario children would be
+expected to accept sentence (16), because the sentence means everybody went to the
+birthday party, which was a true description of the corresponding story. In the
+example ‘false’ scenario, children should reject sentence (17), and should justify
+this response by pointing out that the little donkey didn’t find his mother, because
+the sentence means everybody found his mother. If, on the other hand, children do
+not have the concept of double negation and thus interpret double negation as single
+negation as observed in previous research, then they would be expected to reject the
+double negative structures in both ‘true’ and ‘false’ scenarios. In the example ‘true’
+scenario, children would reject sentence (16) by pointing out that everybody went to
+the birthday party, since they would interpret sentence (16) as equivalent to a single
+negative structure like nobody went to the birthday party. Similarly, in the example
+‘false’ scenario, children would be expected to reject sentence (17) by making
+reference to the fact that the little elephant and the little turtle found their mothers,
+because they would interpret sentence (17) to mean nobody found his mother.
+5.5 Results and discussion
+All the children responded correctly to the control trials 100% of the time. So, their
+data were all included in the final analysis. The dependent measure was the
+proportion of correct responses in the two types of scenarios. Figure 3 shows the
+proportion of correct responses in the two types of scenarios by the two age groups.
+The division of the child participants into the two age groups was done post-hoc,
+based on the performance of each individual participant. The proportion of correct
+responses for each participant is provided in Appendix 2. The findings showed that
+children aged 5;6 and above consistently gave correct responses, whereas children
+younger than 5;6 consistently gave incorrect responses. On the basis of these
+findings, we decided to divide the child participants into two age groups: 4;2–5;5
+and 5;6–5;10. A detailed analysis of the data is given as follows.</p>
+        <p>As indicated in Fig. 3, the older group gave more correct responses than the
+younger group in both conditions. In the ‘true’ scenarios, children aged between
+5;6–5;10 accepted the double negative structures 86.67% of the time, whereas
+children aged between 4;2–5;5 did so only 20% of the time. The other 80% of
+the time they consistently rejected the true test sentences by pointing out that all
+the characters under consideration did something. For example, in the scenario
+where Garfield, the little bunny and Winnie the Pooh all went to the birthday
+party, they rejected the double negative structure in (16), repeated here as (20).
+When asked to justify their rejections, they all pointed out that the characters all
+went to the birthday party. A representative justification from a child aged 4;7 is
+given in (21).
+(20) Mei-you-ren mei qu canjia
+not-have-person not go join
+‘Nobody did not go to the birthday party.’
+(Meaning: Everybody went to the birthday party.)
+shengri
+birthday
+In the ‘false’ scenarios, children aged between 5;6–5;10 correctly rejected the test
+sentences 86.67% of the time, whereas children aged between 4;2–5;5 did so only
+20% of the time. The other 80% of the time they rejected the test sentences for
+wrong reasons. For example, in the scenario where the little elephant and the little
+turtle found their moms, but the little donkey didn’t, the older group consistently
+rejected the double negative structure in (17), repeated here as (22), either by
+pointing out that the little donkey didn’t find his mother or by saying that only two
+guys found their mothers. A representative justification from a child aged 5;8 is
+given in (23). The younger group also rejected the sentence but for a different
+reason. When asked for reasons for rejection, the younger group consistently
+referred to the fact that someone found their mothers either by saying the sentence
+youren zhaodao le ‘someone found their mothers’, or by pointing to the fact that the
+little elephant and the little turtle found their mothers. A representative justification
+from a child aged 4;5 is given in (24).
+(22) Mei-you-ren mei zhaodao mama.</p>
+        <p>not-have-person not find mother
+‘Nobody did not find his mother.’
+(Meaning: Everybody found his mother.)
+(23) After Kermit the Frog presented the test sentence in (22).</p>
+        <p>Experimenter: Xiaoqingwa shuo dui le ma?</p>
+        <p>‘Was Kermit right or wrong?’’
+Child: Budui.</p>
+        <p>‘Wrong.’
+Experimenter: Ni neng gaosu ta weishenme budui ma?</p>
+        <p>‘Could you tell him why he was wrong?’
+Child: Yinwei ta meiyou zhaodao. (Pointing to the little donkey)
+‘Cause he didn’t find (his mom).’
+(24) After Kermit the Frog presented the test sentence in (22).</p>
+        <p>Experimenter: Xiaoqingwa shuo dui le ma?</p>
+        <p>‘Was Kermit right or wrong?’’
+Child: Budui.</p>
+        <p>‘Wrong.’
+Experimenter: Ni neng gaosu ta weishenme budui ma?</p>
+        <p>‘Could you tell him why he was wrong?’
+Child: Yinwei tamen liang zhaodao le
+‘Cause these two guys found their moms.’
+(Pointing to the little elephant and the little turtle)
+The performance of each individual participant was consistent across the trials. In
+the ‘true’ scenarios, the participant either accepted all the three test sentences or
+rejected them all. In the ‘false’ scenarios, the participant gave similar reasons for
+their rejections of the three test sentences.</p>
+        <p>
+          To assess the difference between the two groups statistically, generalized linear
+mixed models (GLMMs) were applied using the R software package (i.e., lme4),
+version 2.15.0
+          <xref ref-type="bibr" rid="ref23">(R Development Core Team 2012)</xref>
+          . This analysis corresponds to a
+logistic regression, taking into account the variability that occurred across
+participants and across items
+          <xref ref-type="bibr" rid="ref1">(Baayen et al. 2008)</xref>
+          . We fit the data from the two
+conditions separately (i.e., a model for children’s responses in the ‘true’ scenarios
+and a model for their responses in the ‘false’ scenarios). The models treated age
+(i.e., two age groups) as fixed effects, with random intercepts and slopes for items
+(Formula in R: response * group ? (1|item) ? (1 ? group|item)).
+        </p>
+        <p>The models revealed that age was a reliable predictor for children’s responses in
+both conditions. In both ‘true’ and ‘false’ scenarios, there was a higher proportion of
+correct responses in the older group than in the younger group (b = 3.26,
+SE = 0.41, z = 8.01, p \ .001). The difference between the two age groups, as
+shown in Fig. 3, was supported by the statistical modelling.</p>
+        <p>The results of this experiment show that children aged between 5;6–5;10
+interpreted a double negative structure as equivalent to a positive meaning, but
+children aged between 4;2–5;5 interpreted the same structure as equivalent to a
+single negative structure. The findings indicate that children have knowledge of
+double negation by age 5;6. This is evidence that preschool children have the
+concept of double negation whereby two negatives cancel each other out, and thus
+are logically equivalent to a positive meaning. But they pass through a stage where
+double negation is analyzed as single negation. A further question to ask was then
+whether preschool children can apply negative markers iteratively to correctly
+produce a double negative structure, once they have knowledge of double negation.
+So a second experiment was designed to investigate whether children aged 5;6 and
+above can correctly produce a double negative structure in an appropriate context.</p>
+      </sec>
+    </sec>
+    <sec id="sec-6">
+      <title>6 Experiment 2</title>
+      <p>6.1 Participants
+Twenty six monolingual Mandarin-speaking children participated in this experiment.
+They were divided into two age groups: 13 children were between 5;6 to 5;11 (8 boys
+and 5 girls) and 13 children were between 6;0 to 6;5 (5 boys and 8 girls). All the child
+participants were recruited from the kindergarten at Beijing Language and Culture
+University. They had no reported history of speech, hearing or language disorders.
+None of them had participated in Experiment 1. In order to see whether
+Mandarinspeaking adults use double negative structures in the same contexts, 15
+Mandarinspeaking adults (age range 23 to 26, 7 women and 8 men) were tested as controls. The
+adult participants were students at Beijing Language and Culture University.
+6.2 Procedure
+Both children and adults were tested using an elicited production task. Like the truth
+value judgment task, it involved two experimenters. One experimenter acted out
+stories with toy props to create contexts for a felicitous use of double negation. The
+other experimenter played the role of a puppet who watched the stories alongside
+the participant. The experimental session proceeded as follows. The first
+experimenter introduced the puppet to the participant and told the participant that the
+puppet was very forgetful and often forgets what happened in the story. So when the
+story concluded, the puppet would ask the participant a question, and the
+participant’s task was to help the puppet answer the question, so that the puppet
+could better understand the story. The puppet’s question after each story is a guise
+for an elicitation technique that allows the experimenter to probe the participant’s
+knowledge of the double negative structure. The participants were introduced to the
+task individually and then tested individually. They were given two practice trials
+before the actual test. On the two trials, the puppet asked a simple question about the
+corresponding story. These practice trials were used to familiarize the participants
+with the task. Only those participants who provided correct answers to the questions
+were included in the actual test.
+6.3 Materials and design
+The experimental session consisted of ten trials: six test trials and four control trials.
+On the test trials, the stories were similar to the ‘true’ scenarios in Experiment 1
+where all the three characters under consideration successfully did something. On
+the control trials, the stories were similar to the ‘false’ scenarios in Experiment 1 in
+which two of the characters successfully did something, but one failed. The
+questions used on the test and control trials share the same structure. Again, we used
+the two example stories in Experiment 1 to illustrate.</p>
+      <p>On a typical test trial, the experimenter acted out the story where the little hippo
+invited his friends, Garfield, the little bunny and Winnie the Pooh, to his birthday
+party. In the end, the little bunny, Winnie the Pooh and Garfield all went to the
+party. After the story, the puppet asked a question as in (25b) preceded by a lead-in
+sentence like (25a). The participant was then prompted to answer the question. The
+questions posed by the puppet on the test trials are critical for the elicitation of
+double negative structures.
+(25) a. Wo kandao xiao hema yaoqing ta-de haopengyou qu
+I see little hippo invite his good friend go
+canjia shengri juhui.
+join birthday party
+‘In this story, the little hippo invited his good friends to his birthday
+party.’
+b. Ni neng gaosu wo you-shei mei qu ma5?
+you can tell me have-who not go Q
+‘I wonder if there is anyone who did not go.’</p>
+      <p>On a typical control trial, the experimenter acted out the story in which three
+friends, the little turtle, the little elephant and the little donkey, went to look for their
+moms. In the end, the little elephant and the little turtle found their moms, but the
+little donkey didn’t. Following the story, the puppet produced the question in (26b)
+preceded by a lead-in sentence like (26a). Again, the participant was prompted to
+answer the question. The control trials were used to see whether children could
+understand the question structure used in the experiment. The questions used in the
+experiment are provided in Appendix 3.
+(26) a. Wo kandao xiaoxiang, xiaowugui he</p>
+      <p>I see little elephant little turtle and
+qu zhao mama.
+go look for mother
+‘In this story, the little elephant, the little turtle and the little donkey
+went to look for their mother.’
+b. Ni neng gaosu wo you-shei mei
+you can tell me have-who not
+zhaodao mama ma?
+find mother Q
+‘I wonder if there is anyone who did not find his mother.’
+xiaolu¨
+little donkey
+5 Ma is a question particle in Mandarin Chinese. So sentence (25b) literally means ‘could you tell me if
+there is anyone who did not go?’</p>
+      <sec id="sec-6-1">
+        <title>6.4 Predictions</title>
+        <p>(27) Mei(you)-ren mei qu.
+not(have)-person not go
+‘Nobody did not go.’</p>
+      </sec>
+      <sec id="sec-6-2">
+        <title>6.5 Data treatment</title>
+        <p>If children can correctly produce a double negative structure by applying two
+negative markers iteratively, then they would be expected to produce a structure like
+(27) in response to questions like (25b).
+All experimental sessions were audio-recorded, and then transcribed by the
+experimenter. To assess the transcription reliability, the responses from six children
+and five adults (out of the 41 participants) were selected to be scored by a second
+coder. Overall, interrater reliability was high (.97). Cases in which there was
+disagreement were discussed with a third coder and a consensus was reached.
+6.6 Results and discussion
+All the participants responded correctly to the control trials 100% of the time. So,
+their data were all included in the final analysis. We first calculated the number of
+productions of double negative structures in response to the puppet’s questions by
+each participant (see Appendix 4 for the data of each child participant). Then for
+each participant we computed the proportion of the productions of double negative
+structures out of the six total test trials. Figure 4 summarizes the proportion of
+double negative structures produced by the three age groups.</p>
+        <p>As Fig. 4 illustrates, the 6-year-olds exhibited adult-like performance, but not the
+5-year-olds. In response to the test questions, the adults produced double negative
+structures 80% of the time, and the 6-year-olds did so 76.92% of the time. For
+example, when the puppet asked the question in (25b) after the story in which all the
+three friends went to the birthday party, children aged between 6;0 and 6;5 provided
+an answer either using the double negative structure in (28a) or the one in (28b).
+(28) a. Mei-you yi-ge-ren mei qu.</p>
+        <p>not-have one-CL-person not go
+‘Not even a single person did not go.’
+b. Mei-you-ren mei qu.</p>
+        <p>not-have-person not go
+‘Nobody did not go.’
+The 5-year-olds, however, did not provide any double negative structures. Instead,
+they either used the corresponding positive structures (19% of the time), or simply
+used a simple negative structure (81% of the time). For example, when presented
+with the same question in (25b), they either produced the positive structure in (29a),
+or the single negative structure in (29b).
+(29) a.</p>
+        <p>Dou qu-le.
+all go-ASP
+‘(They) all did.’
+Mei-you.
+not-have
+‘Not have (one).’
+Although the 5-year-olds did not use a double negative structure, the two structures
+in (29a) and (29b) are also legitimate answers to a Mandarin question like (25b),
+repeated here as (30). Actually some of the adults (20% of the time) and the
+sixyear-olds (23.08% of the time) also provided structures like (29a) and (29b). The
+five-year-olds simply tended to avoid using a double negative structure.
+(30) Ni neng gaosu wo you-shei mei qu ma?
+you can tell me have-who not go Q
+‘I wonder if there is anyone who did not go.’</p>
+        <p>Again, GLMMs were applied to assess this difference between the three age
+groups, using the lme4 package. The models treated age (i.e., three age groups) as
+fixed effects, with random intercepts and slopes for items (Formula in R:
+response * group ? (1|item) ? (1 ? group|item)). The models revealed that age
+was a reliable predictor of the proportion of double negative structures in the
+participants’ productions. There was a lower proportion of double negative
+structures in the 5-year-olds than in the 6-year-olds (b = 1.20, SE = 0.27,
+z = 4.48, p \ .001) and the adults (b = 1.39, SE = 0.26, z = 5.26, p \ .001).
+Post-hoc comparisons showed that there was no difference between the 6-year-olds
+and the adults in the proportion of double negative structures (b = 0.18, SE = 0.38,
+z = 0.48, p[.05).</p>
+        <p>The results of this experiment show that the 6-year-olds correctly produced a
+double negative structure when provided with an appropriate context, and they
+produced the structure to the same extent as the adults did. These findings suggest
+that by age 6 children can apply negative markers iteratively to correctly produce a
+double negative structure. The 5-year-olds, however, tended to avoid using a double
+negative structure to answer the questions, even though they could correctly
+understand the questions. We will return to this point in the general discussion.</p>
+      </sec>
+    </sec>
+    <sec id="sec-7">
+      <title>7 General discussion</title>
+      <p>
+        The present study investigated the age at which children have mastered the law of
+double negation, whereby two negatives cancel each other out, and thus are
+logically equivalent to a positive. Previous research on children’s interpretation of
+double negative sentences reached the conclusion that preschool children did not
+have the concept of double negation
+        <xref ref-type="bibr" rid="ref15">(e.g., Jou 1988)</xref>
+        . However, we argued that
+children’s failure in processing double negative structures in previous studies was
+likely due to an artifact of the experimental task. In previous research, children were
+tested using an act-out task in which they were asked to act out the double negative
+sentences using the toys that were available in the experimental workspace. This
+task is problematic, however, since it lacks the kind of supporting contexts that is
+needed to satisfy the felicity conditions associated with a double negative structure.
+As we discussed, this design feature may have seriously impeded children’s ability
+to successfully demonstrate their knowledge of double negation. As has been shown
+previously in the literature on child language, a felicitous context is critical for
+evoking children’s adult-like knowledge of negative sentences. When a felicitous
+context is supplied, negation has not posed serious difficulties for preschool
+children.
+      </p>
+      <p>
+        We applied the same research strategy to children’s interpretation of double
+negative structures. Specifically, we argued that the observed difficulties
+experienced by young children in the processing of double negative structures might be
+greatly diminished if the double negative structure was presented in a felicitous
+context. To test this hypothesis, a truth value judgment task was conducted in which
+children were asked to judge whether or not a double negative structure was a true
+description of a given story acted out by the experimenter. A crucial design feature
+of this task is that the test sentences were presented in a context that satisfied the
+felicity conditions associated with the use of double negative structures. The
+findings revealed that, by age 5;6, children successfully interpreted a double
+negative structure in the same way as adult language users. However, the reviewers
+pointed out that stronger evidence for preschool children’s knowledge of double
+negation should come from studies using the double negative structures as those
+used in
+        <xref ref-type="bibr" rid="ref15">Jou (1988)</xref>
+        . The logic is that if preschool children are also able to assign a
+positive meaning to the double negative structures as those used in
+        <xref ref-type="bibr" rid="ref15">Jou (1988)</xref>
+        , then
+this would constitute direct evidence that children’s difficulty with double negation
+observed in previous research is due to a lack of an appropriate context in the
+experimental tasks. We wish to note that we actually did an experiment in which a
+double negative structure like (31) was used. Similar to the structure used in
+        <xref ref-type="bibr" rid="ref15">Jou
+(1988)</xref>
+        (see (13), repeated here as (32)), the two negation markers in (31) are in
+separate clauses.
+(31) Xiaoxiong Weini mei-you bu qu shengri juhui.
+      </p>
+      <p>Winnie the Pooh not not go birthday party
+‘It is not the case that Winnie the Pooh didn’t go to the birthday party.’
+(32) Hong wawa mei-you bu ba lu¨ wawa tuidao.
+red doll not not cause green doll strike-down
+‘It is not the case that the red doll doesn’t strike down the green doll.’
+Using a truth value judgment task as in the present study, we tested 16
+Mandarinspeaking children aged between 5;6 and 5;9. A double negative structure like (31)
+was presented in either a context where it was a true description of the
+corresponding story, or in a context in which it was a false description of the
+corresponding story. We found that the children correctly interpreted a double
+negative structure like (31) 88% of the time, assigning a positive meaning to the
+structure.</p>
+      <p>
+        Taken together, our findings are strong evidence that preschool children
+successfully convert double negation into a positive meaning if they are given
+appropriate contextual support. The findings also indicate that children have
+mastered the law of double negation by age 5;6. By age 5;6 Mandarin-speaking
+children have adult-like ability of logical reasoning involving double negation.
+However, children younger than 5;6 interpreted a double negative structure as
+equivalent to a single negative structure. This finding invites the conclusion that
+children pass through a stage where double negation is analyzed as a single
+negation. At this point, an interesting question to ask is what development underlies
+this abrupt change between children younger than 5;6 and those aged between 5;6
+and above, i.e., children younger than 5;6 consistently interpreted double negation
+as having a meaning equivalent to a single negation, whereas children aged 5;6 and
+above consistently interpreted double negation as having a positive meaning. There
+are two conceivable explanations for this dramatic change. First, one could
+hypothesize that children younger than 5;6 do not have the concept of double
+negation, and thus interpret double negation as a single negation, while children
+aged 5;6 and above have knowledge of double negation. Abrupt changes in
+children’s language development are not unusual. For example, similar abrupt
+changes have been reported in children’s acquisition of null subjects
+        <xref ref-type="bibr" rid="ref14">(Hyams and
+Wexler 1993)</xref>
+        and their acquisition of inflection related to negation
+        <xref ref-type="bibr" rid="ref26">(Thornton and
+Tesan 2007)</xref>
+        . We wish to note here that the development of children’s linguistic
+knowledge is not necessarily a gradual process; sometimes it can be precipitous.
+However, an alternative explanation could be that younger children have the
+concept of double negation, yet they have difficulty implementing the law of double
+negation, presumably due to their limited computational resources (e.g., limitations
+in working memory capacity). For example, younger children may have the
+knowledge that two negatives cancel each other out, but in order to implement this
+law, they first have to hold in their working memory the meaning of the first
+negative, and then apply the second negative to the first negative to yield a positive
+meaning. This process might pose difficulty for younger children because of their
+limitations in working memory capacity. Further research is required to explore the
+two possibilities.6
+      </p>
+      <p>The first experiment was a comprehension task. Based on the findings of the first
+experiment, we know that children aged 5;6 and above already have the concept of
+double negation. The second experiment used a production task to see whether
+preschool children can correctly produce a double negative structure by applying the
+two negative markers iteratively, once they have knowledge of double negation. The
+research question posed by the second experiment was whether or not children of
+the same age can correctly produce a double negative structure when provided with
+contextual support. We also tested adult Mandarin-speakers as controls, to make
+sure that the contextual support we constructed was adequate to elicit double
+negative structures from adults. In the task, the experimenter acted out stories
+designed to create contexts for the felicitous use of double negation. After each
+story, the participant was asked to provide an answer to the question posed by the
+puppet. The puppet’s question was designed to elicit a double negative structure.
+The results show that six-year-old children correctly produced a double negative
+structure in response to the test questions. In fact, six-year-old children produced
+double negative structures to the same extent as adults did. The five-year-olds
+exhibited a different pattern than the six-year-olds and the adults, however. Instead
+of producing a double negative structure, these children used alternative structures
+to answer the questions. Nevertheless, the alternative structures they used were
+legitimate answers to the same questions. This suggests that the five-year-olds avoid
+using a double negative structure if alternative structures are available. This
+tendency is presumably due to the least-effort processing strategy adopted by the
+younger children. The basic idea is that (i) if both a sentence with negation markers
+and one without negation markers can be used to express the same meaning, the
+sentence without negation markers is preferred; and (ii) if both a short sentence and
+a long sentence can be used to express the same meaning, the short sentence which
+requires less processing resources is preferred. The examples in (28) and (29),
+repeated here as (33) and (34), illustrate this point. The double negative structures in
+(33) are longer than the alternative structures in (34). In addition, although (33a),
+(33b) and (34a) express the same meaning, (34a) doesn’t involve any negation
+markers. So the five-year-olds simply adopted a simple, least-effort strategy of
+producing the alternative structures in (34) that convey the same intended meaning.
+6 One reviewer pointed out that it seems to be more plausible to attribute the abrupt change between the
+two age groups to a change in linguistic knowledge than a change in working memory, or computational
+resources in general. We are inclined to agree with the reviewer, but decided to leave open the possibility
+in the current paper.
+(34) a.</p>
+      <p>It is likely that the five-year-olds have knowledge of correctly producing a double
+negative structure, but avoided using the structure due to their least-effort
+processing strategy. So, it remains to be shown that five-year-old children can
+correctly produce double negative structures. However, on the basis of the data it is
+safe to say that, by age six, children correctly produce double negative structures by
+applying negative markers iteratively. Taken together, the results of these two
+experiments demonstrate that children have knowledge of double negation by age
+5;6, but they pass through a stage where double negation is analyzed as a single
+negation. By age 6 children are even able to produce double negative structures in
+an adult-like manner. These findings invite the conclusion that preschool children
+have adult-like knowledge of double negation. This conclusion stands in contrast
+with previous research, which concluded that children did not understand double
+negation until the age of seven or later.</p>
+      <p>Acknowledgments This research was supported by a Macquarie University Research Fellowship to the
+first author and also the ARC Centre of Excellence in Cognition and its Disorders (CE110001021). The
+authors are grateful to two anonymous reviewers for their insightful comments and suggestions on an
+earlier version of the paper. The authors would also like to thank the language acquisition group of
+Beijing Language and Culture University headed by Professor Liqun Gao for their assistance and support
+in running the experiments.</p>
+    </sec>
+    <sec id="sec-8">
+      <title>Appendix 1</title>
+      <p>Test sentences used in Experiment 1 (the first six sentences are double negative
+structures, sentences (7) and (8) are affirmative structures, and sentences (9) and
+(10) are single negative structures)
+(1) Mei-you-ren mei qu canjia shengri juhui.</p>
+      <p>not-have-person not go join birthday party
+‘Nobody did not go to the birthday party.’
+(2) Mei-you-ren mei tui dakache.</p>
+      <p>not-have-person not push big truck
+‘Nobody did not push the big truck.’
+(3) Mei-you-ren mei chi qingjiao.</p>
+      <p>not-have-person not eat green pepper
+‘Nobody did not eat green peppers.’
+(4) Mei-you-ren mei zhaodao mama.</p>
+      <p>not-have-person not find mother
+‘Nobody did not find his mother.’
+(7) Mei-ge-ren dou dabai-le laowupo.</p>
+      <p>every-CL-person all defeat-ASP witch
+‘Everybody defeated the witch.’
+(8) Mei-ge-ren dou chuanguo-le qiao.</p>
+      <p>every-CL-person all cross-ASP bridge
+‘Everybody crossed the bridge.’
+(9) Mei-you-ren zhaodao lingdang.</p>
+      <p>not-have-person find bell
+‘Nobody found the bell.’
+(10) Mei-you-ren tiao-guo liba.</p>
+      <p>not-have-person jump-over fence
+‘Nobody jumped over the fence.’</p>
+    </sec>
+    <sec id="sec-9">
+      <title>Appendix 2</title>
+      <p>The data of each participant in Experiment 1</p>
+      <p>Proportion of correct responses
+‘True’-Scenario (%)
+100
+100
+100
+100
+100
+0
+‘False’-Scenario (%)
+100
+100
+100
+100
+100
+0
+The questions used in Experiment 2 (the first six questions were used to elicit double
+negative structures, and the last four were control questions)
+(1) Ni neng gaosu wo you-shei mei qu ma?
+you can tell me have-who not go Q
+‘I wonder if there is anyone who did not go.’
+(2) Ni neng gaosu wo you-shei mei tui dakache ma?
+you can tell me have-who not push big truck Q
+‘I wonder if there is anyone who did not push the big truck.’
+(3) Ni neng gaosu wo you-shei mei chi qingjiao ma?
+you can tell me have-who not eat green pepper Q
+‘I wonder if there is anyone who did not eat green peppers.’
+(4) Ni neng gaosu wo you-shei mei pa-shang dashu ma?
+you can tell me have-who not climb-up big tree Q
+‘I wonder if there is anyone who did not climb up the big tree.’
+(5) Ni neng gaosu wo you-shei mei nadao mofahe ma?
+you can tell me have-who not get magic box Q
+‘I wonder if there is anyone who did not get magic boxes.’
+(6) Ni neng gaosu wo you-shei mei dabai laowupo ma?
+you can tell me have-who not defeat witch Q
+‘I wonder if there is anyone who did not defeat the witch.’
+(7) Ni neng gaosu wo you-shei mei zhaodao mama ma?
+you can tell me have-who not find mother Q
+‘I wonder if there is anyone who did not find his mother.’
+(8) Ni neng gaosu wo you-shei mei tiao-guo liba ma?
+you can tell me have-who not jump-over fence Q
+‘I wonder if there is anyone who did not jump over the fence.’
+(9) Ni neng gaosu wo you-shei mei chuanguo qiao ma?
+you can tell me have-who not cross bridge Q
+‘I wonder if there is anyone who did not cross the bridge.’
+(10) Ni neng gaosu wo you-shei mei zhaodao lingdang ma?
+you can tell me have-who not find bell Q
+‘I wonder if there is anyone who did not find bells.’
+The number of productions of double negative structures in response to the puppet’s
+questions by each child participant, Experiment 2</p>
+    </sec>
+    <sec id="sec-10">
+      <title>Appendix 4</title>
+      <p>Number of productions of double
+negative structures
+6
+6
+6
+0
+6
+6
+6
+6
+6
+0
+0
+6
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <surname>Baayen</surname>
+            , Harald,
+            <given-names>Doug</given-names>
+          </string-name>
+          <string-name>
+            <surname>Davidson</surname>
+            , and
+            <given-names>Douglas</given-names>
+          </string-name>
+          <string-name>
+            <surname>Bates</surname>
+          </string-name>
+          .
+          <year>2008</year>
+          .
+          <article-title>Mixed-effects modelling with crossed random effects for subjects and items</article-title>
+          .
+          <source>Journal of Memory and Language</source>
+          <volume>59</volume>
+          :
+          <fpage>390</fpage>
+          -
+          <lpage>412</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>Carpenter</surname>
+            ,
+            <given-names>Patricia A.</given-names>
+          </string-name>
+          , Marcel Adam Just, Timothy A. Keller, William F. Eddy, and
+          <string-name>
+            <surname>Keith</surname>
+            <given-names>R.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Thulborn</surname>
+          </string-name>
+          .
+          <year>1999</year>
+          .
+          <article-title>Time course of fMRI-activation in language and spatial networks during sentence comprehension</article-title>
+          .
+          <source>NeuroImage</source>
+          <volume>10</volume>
+          :
+          <fpage>216</fpage>
+          -
+          <lpage>224</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <surname>Cheng</surname>
+            , Lisa L.-S., and
+            <given-names>Yafei</given-names>
+          </string-name>
+          <string-name>
+            <surname>Li</surname>
+          </string-name>
+          .
+          <year>1991</year>
+          .
+          <article-title>Double negation in Chinese and multi projections</article-title>
+          .
+          <source>Paper presented at the North America Conference on Chinese Linguistics</source>
+          , Cornell University.
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <surname>Crain</surname>
+            , Stephen, and
+            <given-names>Rosalind</given-names>
+          </string-name>
+          <string-name>
+            <surname>Thornton</surname>
+          </string-name>
+          .
+          <year>1998</year>
+          .
+          <article-title>Investigations in Universal Grammar: A guide to experiments on the acquisition of syntax and semantics</article-title>
+          . Cambridge, MA: MIT Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>de Villiers</surname>
+          </string-name>
+          , Jill G., and Helen Tager Flusberg.
+          <year>1975</year>
+          .
+          <article-title>Some facts one simply cannot deny</article-title>
+          .
+          <source>Journal of Child Language</source>
+          <volume>2</volume>
+          :
+          <fpage>279</fpage>
+          -
+          <lpage>286</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <surname>Ding</surname>
+          </string-name>
+          , Shengshu.
+          <year>1961</year>
+          .
+          <article-title>Xiandai hanyu yufa jianghua (Discussion on modern Chinese grammar)</article-title>
+          . Beijing: Shangwu Yinshuguan (in Chinese).
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>Fan</surname>
+          </string-name>
+          , Li.
+          <year>2007</year>
+          .
+          <article-title>The early acquisition of negative words in Mandarin Chinese</article-title>
+          .
+          <source>Modern Foreign Languages</source>
+          <volume>30</volume>
+          :
+          <fpage>144</fpage>
+          -
+          <lpage>154</lpage>
+          (in Chinese).
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <source>Givo´n, Talmy</source>
+          .
+          <year>1978</year>
+          .
+          <article-title>Negation in language: Pragmatics, function, ontology</article-title>
+          . New York: Academic Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <source>Givo´n, Talmy</source>
+          .
+          <year>1993</year>
+          .
+          <article-title>English grammar: A function-based introduction</article-title>
+          , vol. I. Amsterdam: John Benjamins.
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <string-name>
+            <surname>Glenberg</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Arthur</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>David A.</given-names>
+            <surname>Robertson</surname>
+          </string-name>
+          , Jennifer L.
+          <string-name>
+            <surname>Jansen</surname>
+          </string-name>
+          , and Mina C. Johnson-Glenberg.
+          <year>1999</year>
+          .
+          <article-title>Not propositions</article-title>
+          .
+          <source>Cognitive Systems Research</source>
+          <volume>1</volume>
+          :
+          <fpage>19</fpage>
+          -
+          <lpage>33</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <string-name>
+            <surname>Gualmini</surname>
+          </string-name>
+          , Andrea.
+          <year>2004</year>
+          .
+          <article-title>Some knowledge children don't lack</article-title>
+          .
+          <source>Linguistics</source>
+          <volume>42</volume>
+          :
+          <fpage>957</fpage>
+          -
+          <lpage>982</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          <string-name>
+            <surname>Hintikka</surname>
+          </string-name>
+          , Jaakko.
+          <year>2002</year>
+          .
+          <article-title>Negation in logic and natural language</article-title>
+          .
+          <source>Linguistics and Philosophy</source>
+          <volume>25</volume>
+          :
+          <fpage>585</fpage>
+          -
+          <lpage>600</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          <string-name>
+            <surname>Horn</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Laurence</surname>
+            <given-names>R.</given-names>
+          </string-name>
+          <year>1989</year>
+          .
+          <article-title>A natural history of negation</article-title>
+          . Chicago: University of Chicago Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          <string-name>
+            <surname>Hyams</surname>
+            , Nina, and
+            <given-names>Kenneth</given-names>
+          </string-name>
+          <string-name>
+            <surname>Wexler</surname>
+          </string-name>
+          .
+          <year>1993</year>
+          .
+          <article-title>On the grammatical basis of null subjects in child language</article-title>
+          .
+          <source>Linguistic Inquiry</source>
+          <volume>24</volume>
+          :
+          <fpage>421</fpage>
+          -
+          <lpage>460</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          <string-name>
+            <surname>Jou</surname>
+          </string-name>
+          , Jerwen.
+          <year>1988</year>
+          .
+          <article-title>The development of comprehension of double negation in Chinese children</article-title>
+          .
+          <source>Journal of Experimental Child Psychology</source>
+          <volume>45</volume>
+          :
+          <fpage>457</fpage>
+          -
+          <lpage>471</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          <string-name>
+            <surname>Jouie</surname>
+          </string-name>
+          , Mak W.-F.
+          <year>1995</year>
+          .
+          <article-title>Children's comprehension of double negation</article-title>
+          .
+          <source>B.A. Dissertation</source>
+          , University of Hong Kong.
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          <string-name>
+            <surname>Kaup</surname>
+          </string-name>
+          , Barbara, Jana Lu¨dtke, and
+          <string-name>
+            <surname>Rolf</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Zwaan</surname>
+          </string-name>
+          .
+          <year>2006</year>
+          .
+          <article-title>Processing negated sentences with contradictory predicates: Is that door that is not open mentally closed</article-title>
+          ?
+          <source>Journal of Pragmatics</source>
+          <volume>38</volume>
+          :
+          <fpage>1033</fpage>
+          -
+          <lpage>1050</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          <string-name>
+            <surname>Kaup</surname>
+            , Barbara, Richard H. Yaxley,
+            <given-names>Carol J.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Madden</surname>
+          </string-name>
+          , Rolf A.
+          <string-name>
+            <surname>Zwaan</surname>
+          </string-name>
+          , and Jana Lu¨dtke.
+          <year>2007</year>
+          .
+          <article-title>Experiential simulations of negated text information</article-title>
+          .
+          <source>Quarterly Journal of Experimental Psychology</source>
+          <volume>60</volume>
+          :
+          <fpage>976</fpage>
+          -
+          <lpage>990</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          <string-name>
+            <surname>Lee</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Thomas H</surname>
+          </string-name>
+          .
+          <article-title>-</article-title>
+          <string-name>
+            <surname>T.</surname>
+            ,
+            <given-names>and Li</given-names>
+          </string-name>
+          <string-name>
+            <surname>Fan</surname>
+          </string-name>
+          .
+          <year>2009</year>
+          .
+          <article-title>Negation and its scope in early child Mandarin: Some longitudinal findings</article-title>
+          .
+          <article-title>Paper presented at the Beijing Language</article-title>
+          and Culture University.
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          <string-name>
+            <surname>Lu</surname>
+            <given-names>¨</given-names>
+          </string-name>
+          ,
+          <source>Shuxiang</source>
+          .
+          <year>1985</year>
+          .
+          <article-title>Yiwen, fouding, kending (Question, negation</article-title>
+          and affirmation).
+          <source>Zhongguo Yuwen</source>
+          <volume>4</volume>
+          :
+          <fpage>241</fpage>
+          -
+          <lpage>250</lpage>
+          (in Chinese).
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          <article-title>Lu¨dtke,</article-title>
+          <string-name>
+            <surname>Jana</surname>
+            , and
+            <given-names>Barbara</given-names>
+          </string-name>
+          <string-name>
+            <surname>Kaup</surname>
+          </string-name>
+          .
+          <year>2006</year>
+          .
+          <article-title>Context effects when reading negative and affirmative sentences</article-title>
+          .
+          <source>In Proceedings of the 28th annual conference of the cognitive science society</source>
+          , ed. R. Sun,
+          <volume>1735</volume>
+          -
+          <fpage>1740</fpage>
+          . Mahwah, NJ: Lawrence Erlbaum.
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          <string-name>
+            <surname>Pea</surname>
+            ,
+            <given-names>Roy D.</given-names>
+          </string-name>
+          <year>1980</year>
+          .
+          <article-title>Logic in early child language</article-title>
+          .
+          <source>Annals of the New York Academy of Sciences</source>
+          <volume>345</volume>
+          :
+          <fpage>27</fpage>
+          -
+          <lpage>43</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          <string-name>
+            <given-names>R</given-names>
+            <surname>Development Core Team</surname>
+          </string-name>
+          .
+          <year>2012</year>
+          .
+          <article-title>The R project for statistical computing</article-title>
+          . Vienna: R Foundation for Statistical Computing. http://www.R-project.
+          <source>org.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          <string-name>
+            <surname>Sherman</surname>
+            ,
+            <given-names>Mark A.</given-names>
+          </string-name>
+          <year>1976</year>
+          .
+          <article-title>Adjectival negation and the comprehension of multiply negated sentences</article-title>
+          .
+          <source>Journal of Verbal Learning and Verbal Behavior</source>
+          <volume>15</volume>
+          :
+          <fpage>143</fpage>
+          -
+          <lpage>157</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          <string-name>
+            <surname>Staab</surname>
+          </string-name>
+          , Jenny.
+          <year>2007</year>
+          .
+          <article-title>Negation in context: Electrophysiological and behavioral investigations of negation effects in discourse processing</article-title>
+          . San Diego: University of California.
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          <string-name>
+            <surname>Thornton</surname>
+            , Rosalind, and
+            <given-names>Graciela</given-names>
+          </string-name>
+          <string-name>
+            <surname>Tesan</surname>
+          </string-name>
+          .
+          <year>2007</year>
+          .
+          <article-title>Categorical acquisition: Parameter setting in Universal Grammar</article-title>
+          .
+          <source>Biolinguistics</source>
+          <volume>1</volume>
+          :
+          <fpage>49</fpage>
+          -
+          <lpage>98</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          <string-name>
+            <surname>Wason</surname>
+            ,
+            <given-names>Peter C.</given-names>
+          </string-name>
+          <year>1959</year>
+          .
+          <article-title>The processing of positive and negative information</article-title>
+          .
+          <source>Quarterly Journal of Experimental Psychology</source>
+          <volume>11</volume>
+          :
+          <fpage>92</fpage>
+          -
+          <lpage>107</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          <string-name>
+            <surname>Wason</surname>
+            ,
+            <given-names>Peter C.</given-names>
+          </string-name>
+          <year>1965</year>
+          .
+          <article-title>The contexts of plausible denial</article-title>
+          .
+          <source>Journal of Verbal Learning and Verbal Behavior</source>
+          <volume>4</volume>
+          :
+          <fpage>7</fpage>
+          -
+          <lpage>11</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          <string-name>
+            <surname>Wason</surname>
+            ,
+            <given-names>Peter C.</given-names>
+          </string-name>
+          <year>1971</year>
+          .
+          <article-title>In real life negatives are false</article-title>
+          .
+          <source>Communication &amp; Cognition</source>
+          <volume>4</volume>
+          :
+          <fpage>239</fpage>
+          -
+          <lpage>253</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          <string-name>
+            <surname>Zeijlstra</surname>
+            ,
+            <given-names>Hedzer H.</given-names>
+          </string-name>
+          <year>2004</year>
+          .
+          <article-title>Sentential negation and negative concord</article-title>
+          .
+          <source>Ph.D. dissertation</source>
+          , University of Amsterdam.
+        </mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>
+          <string-name>
+            <surname>Zhang</surname>
+            , Yunqiu,
+            <given-names>Zhongling</given-names>
+          </string-name>
+          <string-name>
+            <surname>Wang</surname>
+            , and
+            <given-names>Yonghua</given-names>
+          </string-name>
+          <string-name>
+            <surname>Xiao</surname>
+          </string-name>
+          .
+          <year>2006</year>
+          .
+          <article-title>A cognitive analysis of negative structures and their usage errors in children before four years of age</article-title>
+          .
+          <source>Journal of Capital Normal University</source>
+          <volume>173</volume>
+          :
+          <fpage>70</fpage>
+          -
+          <lpage>77</lpage>
+          (in Chinese).
+        </mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation>
+          <string-name>
+            <surname>Zhou</surname>
+          </string-name>
+          , Guoguang.
+          <year>2002</year>
+          .
+          <article-title>An investigation of children's use of the negative marker bu and related negative structures</article-title>
+          .
+          <source>Applied Linguistics</source>
+          <volume>174</volume>
+          :
+          <fpage>42</fpage>
+          -
+          <lpage>49</lpage>
+          (in Chinese).
+        </mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation>
+          <string-name>
+            <surname>Zhu</surname>
+          </string-name>
+          , Manshu.
+          <year>1986</year>
+          .
+          <article-title>Research on child language development</article-title>
+          . Shanghai: East China Normal University (in Chinese).
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
